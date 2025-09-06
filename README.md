@@ -1,7 +1,7 @@
 # GPT-5 Macbeth Notes Processor
 
 A comprehensive Python solution that uses GPT-5 API to process Shakespeare commentary notes with OCR bibliography extraction and PDF export.
-
+   
 ## 🎯 What This Processor Does
 
 1. **Extracts Bibliography**: Uses OCR to read all bibliography entries from 5 PNG image files (Capture.PNG through Capture5.PNG)
