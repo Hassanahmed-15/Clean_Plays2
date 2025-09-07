@@ -1,4 +1,4 @@
-# GPT-5 Macbeth Notes Processor
+ # GPT-5 Macbeth Notes Processor
 
 A comprehensive Python solution that uses GPT-5 API to process Shakespeare commentary notes with OCR bibliography extraction and PDF export.
    
