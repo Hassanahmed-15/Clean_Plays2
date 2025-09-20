@@ -1,0 +1,2675 @@
+ACT 1 SCENE 1
+
+1: ORLANDO: As I remember, Adam, it was upon this fashion
+2: bequeathed me by will but poor a thousand crowns,
+3: and, as thou sayest, charged my brother, on his
+4: blessing, to breed me well: and there begins my
+5: sadness. My brother Jaques he keeps at school, and
+6: report speaks goldenly of his profit: for my part,
+7: he keeps me rustically at home, or, to speak more
+8: properly, stays me here at home unkept; for call you
+9: that keeping for a gentleman of my birth, that
+10: differs not from the stalling of an ox? His horses
+11: are bred better; for, besides that they are fair
+12: with their feeding, they are taught their manage,
+13: and to that end riders dearly hired: but I, his
+14: brother, gain nothing under him but growth; for the
+15: which his animals on his dunghills are as much
+16: bound to him as I. Besides this nothing that he so
+17: plentifully gives me, the something that nature gave
+18: me his countenance seems to take from me: he lets
+19: me feed with his hinds, bars me the place of a
+20: brother, and, as much as in him lies, mines my
+21: gentility with my education. This is it, Adam, that
+22: grieves me; and the spirit of my father, which I
+23: think is within me, begins to mutiny against this
+24: servitude: I will no longer endure it, though yet I
+25: know no wise remedy how to avoid it.
+26: ADAM: Yonder comes my master, your brother.
+27: ORLANDO: Go apart, Adam, and thou shalt hear how he will
+28: shake me up.
+29: OLIVER: Now, sir! what make you here?
+30: ORLANDO: Nothing: I am not taught to make any thing.
+31: OLIVER: What mar you then, sir?
+32: ORLANDO: Marry, sir, I am helping you to mar that which God
+33: made, a poor unworthy brother of yours, with idleness.
+34: OLIVER: Marry, sir, be better employed, and be naught awhile.
+35: ORLANDO: Shall I keep your hogs and eat husks with them?
+36: What prodigal portion have I spent, that I should
+37: come to such penury?
+38: OLIVER: Know you where your are, sir?
+39: ORLANDO: O, sir, very well; here in your orchard.
+40: OLIVER: Know you before whom, sir?
+41: ORLANDO: Ay, better than him I am before knows me. I know
+42: you are my eldest brother; and, in the gentle
+43: condition of blood, you should so know me. The
+44: courtesy of nations allows you my better, in that
+45: you are the first-born; but the same tradition
+46: takes not away my blood, were there twenty brothers
+47: betwixt us: I have as much of my father in me as
+48: you; albeit, I confess, your coming before me is
+49: nearer to his reverence.
+50: OLIVER: What, boy!
+51: ORLANDO: Come, come, elder brother, you are too young in this.
+52: OLIVER: Wilt thou lay hands on me, villain?
+53: ORLANDO: I am no villain; I am the youngest son of Sir
+54: Rowland de Boys; he was my father, and he is thrice
+55: a villain that says such a father begot villains.
+56: Wert thou not my brother, I would not take this hand
+57: from thy throat till this other had pulled out thy
+58: tongue for saying so: thou hast railed on thyself.
+59: ADAM: Sweet masters, be patient: for your father's
+60: remembrance, be at accord.
+61: OLIVER: Let me go, I say.
+62: ORLANDO: I will not, till I please: you shall hear me. My
+63: father charged you in his will to give me good
+64: education: you have trained me like a peasant,
+65: obscuring and hiding from me all gentleman-like
+66: qualities. The spirit of my father grows strong in
+67: me, and I will no longer endure it: therefore allow
+68: me such exercises as may become a gentleman, or
+69: give me the poor allottery my father left me by
+70: testament; with that I will go buy my fortunes.
+71: OLIVER: And what wilt thou do? beg, when that is spent?
+72: Well, sir, get you in: I will not long be troubled
+73: with you; you shall have some part of your will: I
+74: pray you, leave me.
+75: ORLANDO: I will no further offend you than becomes me for my good.
+76: OLIVER: Get you with him, you old dog.
+77: ADAM: Is 'old dog' my reward? Most true, I have lost my
+78: teeth in your service. God be with my old master!
+79: he would not have spoke such a word.
+80: OLIVER: Is it even so? begin you to grow upon me? I will
+81: physic your rankness, and yet give no thousand
+82: crowns neither. Holla, Dennis!
+83: DENNIS: Calls your worship?
+84: OLIVER: Was not Charles, the duke's wrestler, here to speak with me?
+85: DENNIS: So please you, he is here at the door and importunes
+86: access to you.
+87: OLIVER: Call him in.
+88: 'Twill be a good way; and to-morrow the wrestling is.
+89: CHARLES: Good morrow to your worship.
+90: OLIVER: Good Monsieur Charles, what's the new news at the
+91: new court?
+92: CHARLES: There's no news at the court, sir, but the old news:
+93: that is, the old duke is banished by his younger
+94: brother the new duke; and three or four loving lords
+95: have put themselves into voluntary exile with him,
+96: whose lands and revenues enrich the new duke;
+97: therefore he gives them good leave to wander.
+98: OLIVER: Can you tell if Rosalind, the duke's daughter, be
+99: banished with her father?
+100: CHARLES: O, no; for the duke's daughter, her cousin, so loves
+101: her, being ever from their cradles bred together,
+102: that she would have followed her exile, or have died
+103: to stay behind her. She is at the court, and no
+104: less beloved of her uncle than his own daughter; and
+105: never two ladies loved as they do.
+106: OLIVER: Where will the old duke live?
+107: CHARLES: They say he is already in the forest of Arden, and
+108: a many merry men with him; and there they live like
+109: the old Robin Hood of England: they say many young
+110: gentlemen flock to him every day, and fleet the time
+111: carelessly, as they did in the golden world.
+112: OLIVER: What, you wrestle to-morrow before the new duke?
+113: CHARLES: Marry, do I, sir; and I came to acquaint you with a
+114: matter. I am given, sir, secretly to understand
+115: that your younger brother Orlando hath a disposition
+116: to come in disguised against me to try a fall.
+117: To-morrow, sir, I wrestle for my credit; and he that
+118: escapes me without some broken limb shall acquit him
+119: well. Your brother is but young and tender; and,
+120: for your love, I would be loath to foil him, as I
+121: must, for my own honour, if he come in: therefore,
+122: out of my love to you, I came hither to acquaint you
+123: withal, that either you might stay him from his
+124: intendment or brook such disgrace well as he shall
+125: run into, in that it is a thing of his own search
+126: and altogether against my will.
+127: OLIVER: Charles, I thank thee for thy love to me, which
+128: thou shalt find I will most kindly requite. I had
+129: myself notice of my brother's purpose herein and
+130: have by underhand means laboured to dissuade him from
+131: it, but he is resolute. I'll tell thee, Charles:
+132: it is the stubbornest young fellow of France, full
+133: of ambition, an envious emulator of every man's
+134: good parts, a secret and villanous contriver against
+135: me his natural brother: therefore use thy
+136: discretion; I had as lief thou didst break his neck
+137: as his finger. And thou wert best look to't; for if
+138: thou dost him any slight disgrace or if he do not
+139: mightily grace himself on thee, he will practise
+140: against thee by poison, entrap thee by some
+141: treacherous device and never leave thee till he
+142: hath ta'en thy life by some indirect means or other;
+143: for, I assure thee, and almost with tears I speak
+144: it, there is not one so young and so villanous this
+145: day living. I speak but brotherly of him; but
+146: should I anatomize him to thee as he is, I must
+147: blush and weep and thou must look pale and wonder.
+148: CHARLES: I am heartily glad I came hither to you. If he come
+149: to-morrow, I'll give him his payment: if ever he go
+150: alone again, I'll never wrestle for prize more: and
+151: so God keep your worship!
+152: OLIVER: Farewell, good Charles.
+153: Now will I stir this gamester: I hope I shall see
+154: an end of him; for my soul, yet I know not why,
+155: hates nothing more than he. Yet he's gentle, never
+156: schooled and yet learned, full of noble device, of
+157: all sorts enchantingly beloved, and indeed so much
+158: in the heart of the world, and especially of my own
+159: people, who best know him, that I am altogether
+160: misprised: but it shall not be so long; this
+161: wrestler shall clear all: nothing remains but that
+162: I kindle the boy thither; which now I'll go about.
+ACT 1 SCENE 2
+
+1: CELIA: I pray thee, Rosalind, sweet my coz, be merry.
+2: ROSALIND: Dear Celia, I show more mirth than I am mistress of;
+3: and would you yet I were merrier? Unless you could
+4: teach me to forget a banished father, you must not
+5: learn me how to remember any extraordinary pleasure.
+6: CELIA: Herein I see thou lovest me not with the full weight
+7: that I love thee. If my uncle, thy banished father,
+8: had banished thy uncle, the duke my father, so thou
+9: hadst been still with me, I could have taught my
+10: love to take thy father for mine: so wouldst thou,
+11: if the truth of thy love to me were so righteously
+12: tempered as mine is to thee.
+13: ROSALIND: Well, I will forget the condition of my estate, to
+14: rejoice in yours.
+15: CELIA: You know my father hath no child but I, nor none is
+16: like to have: and, truly, when he dies, thou shalt
+17: be his heir, for what he hath taken away from thy
+18: father perforce, I will render thee again in
+19: affection; by mine honour, I will; and when I break
+20: that oath, let me turn monster: therefore, my
+21: sweet Rose, my dear Rose, be merry.
+22: ROSALIND: From henceforth I will, coz, and devise sports. Let
+23: me see; what think you of falling in love?
+24: CELIA: Marry, I prithee, do, to make sport withal: but
+25: love no man in good earnest; nor no further in sport
+26: neither than with safety of a pure blush thou mayst
+27: in honour come off again.
+28: ROSALIND: What shall be our sport, then?
+29: CELIA: Let us sit and mock the good housewife Fortune from
+30: her wheel, that her gifts may henceforth be bestowed equally.
+31: ROSALIND: I would we could do so, for her benefits are
+32: mightily misplaced, and the bountiful blind woman
+33: doth most mistake in her gifts to women.
+34: CELIA: 'Tis true; for those that she makes fair she scarce
+35: makes honest, and those that she makes honest she
+36: makes very ill-favouredly.
+37: ROSALIND: Nay, now thou goest from Fortune's office to
+38: Nature's: Fortune reigns in gifts of the world,
+39: not in the lineaments of Nature.
+40: CELIA: No? when Nature hath made a fair creature, may she
+41: not by Fortune fall into the fire? Though Nature
+42: hath given us wit to flout at Fortune, hath not
+43: Fortune sent in this fool to cut off the argument?
+44: ROSALIND: Indeed, there is Fortune too hard for Nature, when
+45: Fortune makes Nature's natural the cutter-off of
+46: Nature's wit.
+47: CELIA: Peradventure this is not Fortune's work neither, but
+48: Nature's; who perceiveth our natural wits too dull
+49: to reason of such goddesses and hath sent this
+50: natural for our whetstone; for always the dulness of
+51: the fool is the whetstone of the wits. How now,
+52: wit! whither wander you?
+53: TOUCHSTONE: Mistress, you must come away to your father.
+54: CELIA: Were you made the messenger?
+55: TOUCHSTONE: No, by mine honour, but I was bid to come for you.
+56: ROSALIND: Where learned you that oath, fool?
+57: TOUCHSTONE: Of a certain knight that swore by his honour they
+58: were good pancakes and swore by his honour the
+59: mustard was naught: now I'll stand to it, the
+60: pancakes were naught and the mustard was good, and
+61: yet was not the knight forsworn.
+62: CELIA: How prove you that, in the great heap of your
+63: knowledge?
+64: ROSALIND: Ay, marry, now unmuzzle your wisdom.
+65: TOUCHSTONE: Stand you both forth now: stroke your chins, and
+66: swear by your beards that I am a knave.
+67: CELIA: By our beards, if we had them, thou art.
+68: TOUCHSTONE: By my knavery, if I had it, then I were; but if you
+69: swear by that that is not, you are not forsworn: no
+70: more was this knight swearing by his honour, for he
+71: never had any; or if he had, he had sworn it away
+72: before ever he saw those pancakes or that mustard.
+73: CELIA: Prithee, who is't that thou meanest?
+74: TOUCHSTONE: One that old Frederick, your father, loves.
+75: CELIA: My father's love is enough to honour him: enough!
+76: speak no more of him; you'll be whipped for taxation
+77: one of these days.
+78: TOUCHSTONE: The more pity, that fools may not speak wisely what
+79: wise men do foolishly.
+80: CELIA: By my troth, thou sayest true; for since the little
+81: wit that fools have was silenced, the little foolery
+82: that wise men have makes a great show. Here comes
+83: Monsieur Le Beau.
+84: ROSALIND: With his mouth full of news.
+85: CELIA: Which he will put on us, as pigeons feed their young.
+86: ROSALIND: Then shall we be news-crammed.
+87: CELIA: All the better; we shall be the more marketable.
+88: Bon jour, Monsieur Le Beau: what's the news?
+89: LE BEAU: Fair princess, you have lost much good sport.
+90: CELIA: Sport! of what colour?
+91: LE BEAU: What colour, madam! how shall I answer you?
+92: ROSALIND: As wit and fortune will.
+93: TOUCHSTONE: Or as the Destinies decree.
+94: CELIA: Well said: that was laid on with a trowel.
+95: TOUCHSTONE: Nay, if I keep not my rank,--
+96: ROSALIND: Thou losest thy old smell.
+97: LE BEAU: You amaze me, ladies: I would have told you of good
+98: wrestling, which you have lost the sight of.
+99: ROSALIND: You tell us the manner of the wrestling.
+100: LE BEAU: I will tell you the beginning; and, if it please
+101: your ladyships, you may see the end; for the best is
+102: yet to do; and here, where you are, they are coming
+103: to perform it.
+104: CELIA: Well, the beginning, that is dead and buried.
+105: LE BEAU: There comes an old man and his three sons,--
+106: CELIA: I could match this beginning with an old tale.
+107: LE BEAU: Three proper young men, of excellent growth and presence.
+108: ROSALIND: With bills on their necks, 'Be it known unto all men
+109: by these presents.'
+110: LE BEAU: The eldest of the three wrestled with Charles, the
+111: duke's wrestler; which Charles in a moment threw him
+112: and broke three of his ribs, that there is little
+113: hope of life in him: so he served the second, and
+114: so the third. Yonder they lie; the poor old man,
+115: their father, making such pitiful dole over them
+116: that all the beholders take his part with weeping.
+117: ROSALIND: Alas!
+118: TOUCHSTONE: But what is the sport, monsieur, that the ladies
+119: have lost?
+120: LE BEAU: Why, this that I speak of.
+121: TOUCHSTONE: Thus men may grow wiser every day: it is the first
+122: time that ever I heard breaking of ribs was sport
+123: for ladies.
+124: CELIA: Or I, I promise thee.
+125: ROSALIND: But is there any else longs to see this broken music
+126: in his sides? is there yet another dotes upon
+127: rib-breaking? Shall we see this wrestling, cousin?
+128: LE BEAU: You must, if you stay here; for here is the place
+129: appointed for the wrestling, and they are ready to
+130: perform it.
+131: CELIA: Yonder, sure, they are coming: let us now stay and see it.
+132: DUKE FREDERICK: Come on: since the youth will not be entreated, his
+133: own peril on his forwardness.
+134: ROSALIND: Is yonder the man?
+135: LE BEAU: Even he, madam.
+136: CELIA: Alas, he is too young! yet he looks successfully.
+137: DUKE FREDERICK: How now, daughter and cousin! are you crept hither
+138: to see the wrestling?
+139: ROSALIND: Ay, my liege, so please you give us leave.
+140: DUKE FREDERICK: You will take little delight in it, I can tell you;
+141: there is such odds in the man. In pity of the
+142: challenger's youth I would fain dissuade him, but he
+143: will not be entreated. Speak to him, ladies; see if
+144: you can move him.
+145: CELIA: Call him hither, good Monsieur Le Beau.
+146: DUKE FREDERICK: Do so: I'll not be by.
+147: LE BEAU: Monsieur the challenger, the princesses call for you.
+148: ORLANDO: I attend them with all respect and duty.
+149: ROSALIND: Young man, have you challenged Charles the wrestler?
+150: ORLANDO: No, fair princess; he is the general challenger: I
+151: come but in, as others do, to try with him the
+152: strength of my youth.
+153: CELIA: Young gentleman, your spirits are too bold for your
+154: years. You have seen cruel proof of this man's
+155: strength: if you saw yourself with your eyes or
+156: knew yourself with your judgment, the fear of your
+157: adventure would counsel you to a more equal
+158: enterprise. We pray you, for your own sake, to
+159: embrace your own safety and give over this attempt.
+160: ROSALIND: Do, young sir; your reputation shall not therefore
+161: be misprised: we will make it our suit to the duke
+162: that the wrestling might not go forward.
+163: ORLANDO: I beseech you, punish me not with your hard
+164: thoughts; wherein I confess me much guilty, to deny
+165: so fair and excellent ladies any thing. But let
+166: your fair eyes and gentle wishes go with me to my
+167: trial: wherein if I be foiled, there is but one
+168: shamed that was never gracious; if killed, but one
+169: dead that was willing to be so: I shall do my
+170: friends no wrong, for I have none to lament me, the
+171: world no injury, for in it I have nothing; only in
+172: the world I fill up a place, which may be better
+173: supplied when I have made it empty.
+174: ROSALIND: The little strength that I have, I would it were with you.
+175: CELIA: And mine, to eke out hers.
+176: ROSALIND: Fare you well: pray heaven I be deceived in you!
+177: CELIA: Your heart's desires be with you!
+178: CHARLES: Come, where is this young gallant that is so
+179: desirous to lie with his mother earth?
+180: ORLANDO: Ready, sir; but his will hath in it a more modest working.
+181: DUKE FREDERICK: You shall try but one fall.
+182: CHARLES: No, I warrant your grace, you shall not entreat him
+183: to a second, that have so mightily persuaded him
+184: from a first.
+185: ORLANDO: An you mean to mock me after, you should not have
+186: mocked me before: but come your ways.
+187: ROSALIND: Now Hercules be thy speed, young man!
+188: CELIA: I would I were invisible, to catch the strong
+189: fellow by the leg.
+190: ROSALIND: O excellent young man!
+191: CELIA: If I had a thunderbolt in mine eye, I can tell who
+192: should down.
+193: DUKE FREDERICK: No more, no more.
+194: ORLANDO: Yes, I beseech your grace: I am not yet well breathed.
+195: DUKE FREDERICK: How dost thou, Charles?
+196: LE BEAU: He cannot speak, my lord.
+197: DUKE FREDERICK: Bear him away. What is thy name, young man?
+198: ORLANDO: Orlando, my liege; the youngest son of Sir Rowland de Boys.
+199: DUKE FREDERICK: I would thou hadst been son to some man else:
+200: The world esteem'd thy father honourable,
+201: But I did find him still mine enemy:
+202: Thou shouldst have better pleased me with this deed,
+203: Hadst thou descended from another house.
+204: But fare thee well; thou art a gallant youth:
+205: I would thou hadst told me of another father.
+206: CELIA: Were I my father, coz, would I do this?
+207: ORLANDO: I am more proud to be Sir Rowland's son,
+208: His youngest son; and would not change that calling,
+209: To be adopted heir to Frederick.
+210: ROSALIND: My father loved Sir Rowland as his soul,
+211: And all the world was of my father's mind:
+212: Had I before known this young man his son,
+213: I should have given him tears unto entreaties,
+214: Ere he should thus have ventured.
+215: CELIA: Gentle cousin,
+216: Let us go thank him and encourage him:
+217: My father's rough and envious disposition
+218: Sticks me at heart. Sir, you have well deserved:
+219: If you do keep your promises in love
+220: But justly, as you have exceeded all promise,
+221: Your mistress shall be happy.
+222: ROSALIND: Gentleman,
+223: Wear this for me, one out of suits with fortune,
+224: That could give more, but that her hand lacks means.
+225: Shall we go, coz?
+226: CELIA: Ay. Fare you well, fair gentleman.
+227: ORLANDO: Can I not say, I thank you? My better parts
+228: Are all thrown down, and that which here stands up
+229: Is but a quintain, a mere lifeless block.
+230: ROSALIND: He calls us back: my pride fell with my fortunes;
+231: I'll ask him what he would. Did you call, sir?
+232: Sir, you have wrestled well and overthrown
+233: More than your enemies.
+234: CELIA: Will you go, coz?
+235: ROSALIND: Have with you. Fare you well.
+236: ORLANDO: What passion hangs these weights upon my tongue?
+237: I cannot speak to her, yet she urged conference.
+238: O poor Orlando, thou art overthrown!
+239: Or Charles or something weaker masters thee.
+240: LE BEAU: Good sir, I do in friendship counsel you
+241: To leave this place. Albeit you have deserved
+242: High commendation, true applause and love,
+243: Yet such is now the duke's condition
+244: That he misconstrues all that you have done.
+245: The duke is humorous; what he is indeed,
+246: More suits you to conceive than I to speak of.
+247: ORLANDO: I thank you, sir: and, pray you, tell me this:
+248: Which of the two was daughter of the duke
+249: That here was at the wrestling?
+250: LE BEAU: Neither his daughter, if we judge by manners;
+251: But yet indeed the lesser is his daughter
+252: The other is daughter to the banish'd duke,
+253: And here detain'd by her usurping uncle,
+254: To keep his daughter company; whose loves
+255: Are dearer than the natural bond of sisters.
+256: But I can tell you that of late this duke
+257: Hath ta'en displeasure 'gainst his gentle niece,
+258: Grounded upon no other argument
+259: But that the people praise her for her virtues
+260: And pity her for her good father's sake;
+261: And, on my life, his malice 'gainst the lady
+262: Will suddenly break forth. Sir, fare you well:
+263: Hereafter, in a better world than this,
+264: I shall desire more love and knowledge of you.
+265: ORLANDO: I rest much bounden to you: fare you well.
+266: Thus must I from the smoke into the smother;
+267: From tyrant duke unto a tyrant brother:
+268: But heavenly Rosalind!
+ACT 1 SCENE 3
+
+1: CELIA: Why, cousin! why, Rosalind! Cupid have mercy! not a word?
+2: ROSALIND: Not one to throw at a dog.
+3: CELIA: No, thy words are too precious to be cast away upon
+4: curs; throw some of them at me; come, lame me with reasons.
+5: ROSALIND: Then there were two cousins laid up; when the one
+6: should be lamed with reasons and the other mad
+7: without any.
+8: CELIA: But is all this for your father?
+9: ROSALIND: No, some of it is for my child's father. O, how
+10: full of briers is this working-day world!
+11: CELIA: They are but burs, cousin, thrown upon thee in
+12: holiday foolery: if we walk not in the trodden
+13: paths our very petticoats will catch them.
+14: ROSALIND: I could shake them off my coat: these burs are in my heart.
+15: CELIA: Hem them away.
+16: ROSALIND: I would try, if I could cry 'hem' and have him.
+17: CELIA: Come, come, wrestle with thy affections.
+18: ROSALIND: O, they take the part of a better wrestler than myself!
+19: CELIA: O, a good wish upon you! you will try in time, in
+20: despite of a fall. But, turning these jests out of
+21: service, let us talk in good earnest: is it
+22: possible, on such a sudden, you should fall into so
+23: strong a liking with old Sir Rowland's youngest son?
+24: ROSALIND: The duke my father loved his father dearly.
+25: CELIA: Doth it therefore ensue that you should love his son
+26: dearly? By this kind of chase, I should hate him,
+27: for my father hated his father dearly; yet I hate
+28: not Orlando.
+29: ROSALIND: No, faith, hate him not, for my sake.
+30: CELIA: Why should I not? doth he not deserve well?
+31: ROSALIND: Let me love him for that, and do you love him
+32: because I do. Look, here comes the duke.
+33: CELIA: With his eyes full of anger.
+34: DUKE FREDERICK: Mistress, dispatch you with your safest haste
+35: And get you from our court.
+36: ROSALIND: Me, uncle?
+37: DUKE FREDERICK: You, cousin
+38: Within these ten days if that thou be'st found
+39: So near our public court as twenty miles,
+40: Thou diest for it.
+41: ROSALIND: I do beseech your grace,
+42: Let me the knowledge of my fault bear with me:
+43: If with myself I hold intelligence
+44: Or have acquaintance with mine own desires,
+45: If that I do not dream or be not frantic,--
+46: As I do trust I am not--then, dear uncle,
+47: Never so much as in a thought unborn
+48: Did I offend your highness.
+49: DUKE FREDERICK: Thus do all traitors:
+50: If their purgation did consist in words,
+51: They are as innocent as grace itself:
+52: Let it suffice thee that I trust thee not.
+53: ROSALIND: Yet your mistrust cannot make me a traitor:
+54: Tell me whereon the likelihood depends.
+55: DUKE FREDERICK: Thou art thy father's daughter; there's enough.
+56: ROSALIND: So was I when your highness took his dukedom;
+57: So was I when your highness banish'd him:
+58: Treason is not inherited, my lord;
+59: Or, if we did derive it from our friends,
+60: What's that to me? my father was no traitor:
+61: Then, good my liege, mistake me not so much
+62: To think my poverty is treacherous.
+63: CELIA: Dear sovereign, hear me speak.
+64: DUKE FREDERICK: Ay, Celia; we stay'd her for your sake,
+65: Else had she with her father ranged along.
+66: CELIA: I did not then entreat to have her stay;
+67: It was your pleasure and your own remorse:
+68: I was too young that time to value her;
+69: But now I know her: if she be a traitor,
+70: Why so am I; we still have slept together,
+71: Rose at an instant, learn'd, play'd, eat together,
+72: And wheresoever we went, like Juno's swans,
+73: Still we went coupled and inseparable.
+74: DUKE FREDERICK: She is too subtle for thee; and her smoothness,
+75: Her very silence and her patience
+76: Speak to the people, and they pity her.
+77: Thou art a fool: she robs thee of thy name;
+78: And thou wilt show more bright and seem more virtuous
+79: When she is gone. Then open not thy lips:
+80: Firm and irrevocable is my doom
+81: Which I have pass'd upon her; she is banish'd.
+82: CELIA: Pronounce that sentence then on me, my liege:
+83: I cannot live out of her company.
+84: DUKE FREDERICK: You are a fool. You, niece, provide yourself:
+85: If you outstay the time, upon mine honour,
+86: And in the greatness of my word, you die.
+87: CELIA: O my poor Rosalind, whither wilt thou go?
+88: Wilt thou change fathers? I will give thee mine.
+89: I charge thee, be not thou more grieved than I am.
+90: ROSALIND: I have more cause.
+91: CELIA: Thou hast not, cousin;
+92: Prithee be cheerful: know'st thou not, the duke
+93: Hath banish'd me, his daughter?
+94: ROSALIND: That he hath not.
+95: CELIA: No, hath not? Rosalind lacks then the love
+96: Which teacheth thee that thou and I am one:
+97: Shall we be sunder'd? shall we part, sweet girl?
+98: No: let my father seek another heir.
+99: Therefore devise with me how we may fly,
+100: Whither to go and what to bear with us;
+101: And do not seek to take your change upon you,
+102: To bear your griefs yourself and leave me out;
+103: For, by this heaven, now at our sorrows pale,
+104: Say what thou canst, I'll go along with thee.
+105: ROSALIND: Why, whither shall we go?
+106: CELIA: To seek my uncle in the forest of Arden.
+107: ROSALIND: Alas, what danger will it be to us,
+108: Maids as we are, to travel forth so far!
+109: Beauty provoketh thieves sooner than gold.
+110: CELIA: I'll put myself in poor and mean attire
+111: And with a kind of umber smirch my face;
+112: The like do you: so shall we pass along
+113: And never stir assailants.
+114: ROSALIND: Were it not better,
+115: Because that I am more than common tall,
+116: That I did suit me all points like a man?
+117: A gallant curtle-axe upon my thigh,
+118: A boar-spear in my hand; and--in my heart
+119: Lie there what hidden woman's fear there will--
+120: We'll have a swashing and a martial outside,
+121: As many other mannish cowards have
+122: That do outface it with their semblances.
+123: CELIA: What shall I call thee when thou art a man?
+124: ROSALIND: I'll have no worse a name than Jove's own page;
+125: And therefore look you call me Ganymede.
+126: But what will you be call'd?
+127: CELIA: Something that hath a reference to my state
+128: No longer Celia, but Aliena.
+129: ROSALIND: But, cousin, what if we assay'd to steal
+130: The clownish fool out of your father's court?
+131: Would he not be a comfort to our travel?
+ACT 2 SCENE 1
+
+1: DUKE SENIOR: Now, my co-mates and brothers in exile,
+2: Hath not old custom made this life more sweet
+3: Than that of painted pomp? Are not these woods
+4: More free from peril than the envious court?
+5: Here feel we but the penalty of Adam,
+6: The seasons' difference, as the icy fang
+7: And churlish chiding of the winter's wind,
+8: Which, when it bites and blows upon my body,
+9: Even till I shrink with cold, I smile and say
+10: 'This is no flattery: these are counsellors
+11: That feelingly persuade me what I am.'
+12: Sweet are the uses of adversity,
+13: Which, like the toad, ugly and venomous,
+14: Wears yet a precious jewel in his head;
+15: And this our life exempt from public haunt
+16: Finds tongues in trees, books in the running brooks,
+17: Sermons in stones and good in every thing.
+18: I would not change it.
+19: AMIENS: Happy is your grace,
+20: That can translate the stubbornness of fortune
+21: Into so quiet and so sweet a style.
+22: DUKE SENIOR: Come, shall we go and kill us venison?
+23: And yet it irks me the poor dappled fools,
+24: Being native burghers of this desert city,
+25: Should in their own confines with forked heads
+26: Have their round haunches gored.
+27: First Lord: Indeed, my lord,
+28: The melancholy Jaques grieves at that,
+29: And, in that kind, swears you do more usurp
+30: Than doth your brother that hath banish'd you.
+31: To-day my Lord of Amiens and myself
+32: Did steal behind him as he lay along
+33: Under an oak whose antique root peeps out
+34: Upon the brook that brawls along this wood:
+35: To the which place a poor sequester'd stag,
+36: That from the hunter's aim had ta'en a hurt,
+37: Did come to languish, and indeed, my lord,
+38: The wretched animal heaved forth such groans
+39: That their discharge did stretch his leathern coat
+40: Almost to bursting, and the big round tears
+41: Coursed one another down his innocent nose
+42: In piteous chase; and thus the hairy fool
+43: Much marked of the melancholy Jaques,
+44: Stood on the extremest verge of the swift brook,
+45: Augmenting it with tears.
+46: DUKE SENIOR: But what said Jaques?
+47: Did he not moralize this spectacle?
+48: First Lord: O, yes, into a thousand similes.
+49: First, for his weeping into the needless stream;
+50: 'Poor deer,' quoth he, 'thou makest a testament
+51: As worldlings do, giving thy sum of more
+52: To that which had too much:' then, being there alone,
+53: Left and abandon'd of his velvet friends,
+54: ''Tis right:' quoth he; 'thus misery doth part
+55: The flux of company:' anon a careless herd,
+56: Full of the pasture, jumps along by him
+57: And never stays to greet him; 'Ay' quoth Jaques,
+58: 'Sweep on, you fat and greasy citizens;
+59: 'Tis just the fashion: wherefore do you look
+60: Upon that poor and broken bankrupt there?'
+61: Thus most invectively he pierceth through
+62: The body of the country, city, court,
+63: Yea, and of this our life, swearing that we
+64: Are mere usurpers, tyrants and what's worse,
+65: To fright the animals and to kill them up
+66: In their assign'd and native dwelling-place.
+67: DUKE SENIOR: And did you leave him in this contemplation?
+68: Second Lord: We did, my lord, weeping and commenting
+69: Upon the sobbing deer.
+70: DUKE SENIOR: Show me the place:
+71: I love to cope him in these sullen fits,
+72: For then he's full of matter.
+73: First Lord: I'll bring you to him straight.
+ACT 2 SCENE 2
+
+1: DUKE FREDERICK: Can it be possible that no man saw them?
+2: It cannot be: some villains of my court
+3: Are of consent and sufferance in this.
+4: First Lord: I cannot hear of any that did see her.
+5: The ladies, her attendants of her chamber,
+6: Saw her abed, and in the morning early
+7: They found the bed untreasured of their mistress.
+8: Second Lord: My lord, the roynish clown, at whom so oft
+9: Your grace was wont to laugh, is also missing.
+10: Hisperia, the princess' gentlewoman,
+11: Confesses that she secretly o'erheard
+12: Your daughter and her cousin much commend
+13: The parts and graces of the wrestler
+14: That did but lately foil the sinewy Charles;
+15: And she believes, wherever they are gone,
+16: That youth is surely in their company.
+17: DUKE FREDERICK: Send to his brother; fetch that gallant hither;
+18: If he be absent, bring his brother to me;
+19: I'll make him find him: do this suddenly,
+20: And let not search and inquisition quail
+21: To bring again these foolish runaways.
+ACT 2 SCENE 3
+
+1: ORLANDO: Who's there?
+2: ADAM: What, my young master? O, my gentle master!
+3: O my sweet master! O you memory
+4: Of old Sir Rowland! why, what make you here?
+5: Why are you virtuous? why do people love you?
+6: And wherefore are you gentle, strong and valiant?
+7: Why would you be so fond to overcome
+8: The bonny priser of the humorous duke?
+9: Your praise is come too swiftly home before you.
+10: Know you not, master, to some kind of men
+11: Their graces serve them but as enemies?
+12: No more do yours: your virtues, gentle master,
+13: Are sanctified and holy traitors to you.
+14: O, what a world is this, when what is comely
+15: Envenoms him that bears it!
+16: ORLANDO: Why, what's the matter?
+17: ADAM: O unhappy youth!
+18: Come not within these doors; within this roof
+19: The enemy of all your graces lives:
+20: Your brother--no, no brother; yet the son--
+21: Yet not the son, I will not call him son
+22: Of him I was about to call his father--
+23: Hath heard your praises, and this night he means
+24: To burn the lodging where you use to lie
+25: And you within it: if he fail of that,
+26: He will have other means to cut you off.
+27: I overheard him and his practises.
+28: This is no place; this house is but a butchery:
+29: Abhor it, fear it, do not enter it.
+30: ORLANDO: Why, whither, Adam, wouldst thou have me go?
+31: ADAM: No matter whither, so you come not here.
+32: ORLANDO: What, wouldst thou have me go and beg my food?
+33: Or with a base and boisterous sword enforce
+34: A thievish living on the common road?
+35: This I must do, or know not what to do:
+36: Yet this I will not do, do how I can;
+37: I rather will subject me to the malice
+38: Of a diverted blood and bloody brother.
+39: ADAM: But do not so. I have five hundred crowns,
+40: The thrifty hire I saved under your father,
+41: Which I did store to be my foster-nurse
+42: When service should in my old limbs lie lame
+43: And unregarded age in corners thrown:
+44: Take that, and He that doth the ravens feed,
+45: Yea, providently caters for the sparrow,
+46: Be comfort to my age! Here is the gold;
+47: And all this I give you. Let me be your servant:
+48: Though I look old, yet I am strong and lusty;
+49: For in my youth I never did apply
+50: Hot and rebellious liquors in my blood,
+51: Nor did not with unbashful forehead woo
+52: The means of weakness and debility;
+53: Therefore my age is as a lusty winter,
+54: Frosty, but kindly: let me go with you;
+55: I'll do the service of a younger man
+56: In all your business and necessities.
+57: ORLANDO: O good old man, how well in thee appears
+58: The constant service of the antique world,
+59: When service sweat for duty, not for meed!
+60: Thou art not for the fashion of these times,
+61: Where none will sweat but for promotion,
+62: And having that, do choke their service up
+63: Even with the having: it is not so with thee.
+64: But, poor old man, thou prunest a rotten tree,
+65: That cannot so much as a blossom yield
+66: In lieu of all thy pains and husbandry
+67: But come thy ways; well go along together,
+68: And ere we have thy youthful wages spent,
+69: We'll light upon some settled low content.
+70: ADAM: Master, go on, and I will follow thee,
+71: To the last gasp, with truth and loyalty.
+72: From seventeen years till now almost fourscore
+73: Here lived I, but now live here no more.
+74: At seventeen years many their fortunes seek;
+75: But at fourscore it is too late a week:
+76: Yet fortune cannot recompense me better
+77: Than to die well and not my master's debtor.
+ACT 2 SCENE 4
+
+1: ROSALIND: O Jupiter, how weary are my spirits!
+2: TOUCHSTONE: I care not for my spirits, if my legs were not weary.
+3: ROSALIND: I could find in my heart to disgrace my man's
+4: apparel and to cry like a woman; but I must comfort
+5: the weaker vessel, as doublet and hose ought to show
+6: itself courageous to petticoat: therefore courage,
+7: good Aliena!
+8: CELIA: I pray you, bear with me; I cannot go no further.
+9: TOUCHSTONE: For my part, I had rather bear with you than bear
+10: you; yet I should bear no cross if I did bear you,
+11: for I think you have no money in your purse.
+12: ROSALIND: Well, this is the forest of Arden.
+13: TOUCHSTONE: Ay, now am I in Arden; the more fool I; when I was
+14: at home, I was in a better place: but travellers
+15: must be content.
+16: ROSALIND: Ay, be so, good Touchstone.
+17: Look you, who comes here; a young man and an old in
+18: solemn talk.
+19: CORIN: That is the way to make her scorn you still.
+20: SILVIUS: O Corin, that thou knew'st how I do love her!
+21: CORIN: I partly guess; for I have loved ere now.
+22: SILVIUS: No, Corin, being old, thou canst not guess,
+23: Though in thy youth thou wast as true a lover
+24: As ever sigh'd upon a midnight pillow:
+25: But if thy love were ever like to mine--
+26: As sure I think did never man love so--
+27: How many actions most ridiculous
+28: Hast thou been drawn to by thy fantasy?
+29: CORIN: Into a thousand that I have forgotten.
+30: SILVIUS: O, thou didst then ne'er love so heartily!
+31: If thou remember'st not the slightest folly
+32: That ever love did make thee run into,
+33: Thou hast not loved:
+34: Or if thou hast not sat as I do now,
+35: Wearying thy hearer in thy mistress' praise,
+36: Thou hast not loved:
+37: Or if thou hast not broke from company
+38: Abruptly, as my passion now makes me,
+39: Thou hast not loved.
+40: O Phebe, Phebe, Phebe!
+41: ROSALIND: Alas, poor shepherd! searching of thy wound,
+42: I have by hard adventure found mine own.
+43: TOUCHSTONE: And I mine. I remember, when I was in love I broke
+44: my sword upon a stone and bid him take that for
+45: coming a-night to Jane Smile; and I remember the
+46: kissing of her batlet and the cow's dugs that her
+47: pretty chopt hands had milked; and I remember the
+48: wooing of a peascod instead of her, from whom I took
+49: two cods and, giving her them again, said with
+50: weeping tears 'Wear these for my sake.' We that are
+51: true lovers run into strange capers; but as all is
+52: mortal in nature, so is all nature in love mortal in folly.
+53: ROSALIND: Thou speakest wiser than thou art ware of.
+54: TOUCHSTONE: Nay, I shall ne'er be ware of mine own wit till I
+55: break my shins against it.
+56: ROSALIND: Jove, Jove! this shepherd's passion
+57: Is much upon my fashion.
+58: TOUCHSTONE: And mine; but it grows something stale with me.
+59: CELIA: I pray you, one of you question yond man
+60: If he for gold will give us any food:
+61: I faint almost to death.
+62: TOUCHSTONE: Holla, you clown!
+63: ROSALIND: Peace, fool: he's not thy kinsman.
+64: CORIN: Who calls?
+65: TOUCHSTONE: Your betters, sir.
+66: CORIN: Else are they very wretched.
+67: ROSALIND: Peace, I say. Good even to you, friend.
+68: CORIN: And to you, gentle sir, and to you all.
+69: ROSALIND: I prithee, shepherd, if that love or gold
+70: Can in this desert place buy entertainment,
+71: Bring us where we may rest ourselves and feed:
+72: Here's a young maid with travel much oppress'd
+73: And faints for succor.
+74: CORIN: Fair sir, I pity her
+75: And wish, for her sake more than for mine own,
+76: My fortunes were more able to relieve her;
+77: But I am shepherd to another man
+78: And do not shear the fleeces that I graze:
+79: My master is of churlish disposition
+80: And little recks to find the way to heaven
+81: By doing deeds of hospitality:
+82: Besides, his cote, his flocks and bounds of feed
+83: Are now on sale, and at our sheepcote now,
+84: By reason of his absence, there is nothing
+85: That you will feed on; but what is, come see.
+86: And in my voice most welcome shall you be.
+87: ROSALIND: What is he that shall buy his flock and pasture?
+88: CORIN: That young swain that you saw here but erewhile,
+89: That little cares for buying any thing.
+90: ROSALIND: I pray thee, if it stand with honesty,
+91: Buy thou the cottage, pasture and the flock,
+92: And thou shalt have to pay for it of us.
+93: CELIA: And we will mend thy wages. I like this place.
+94: And willingly could waste my time in it.
+95: CORIN: Assuredly the thing is to be sold:
+96: Go with me: if you like upon report
+97: The soil, the profit and this kind of life,
+98: I will your very faithful feeder be
+99: And buy it with your gold right suddenly.
+ACT 2 SCENE 5
+
+1: AMIENS: Under the greenwood tree
+2: Who loves to lie with me,
+3: And turn his merry note
+4: Unto the sweet bird's throat,
+5: Come hither, come hither, come hither:
+6: Here shall he see No enemy
+7: But winter and rough weather.
+8: JAQUES: More, more, I prithee, more.
+9: AMIENS: It will make you melancholy, Monsieur Jaques.
+10: JAQUES: I thank it. More, I prithee, more. I can suck
+11: melancholy out of a song, as a weasel sucks eggs.
+12: More, I prithee, more.
+13: AMIENS: My voice is ragged: I know I cannot please you.
+14: JAQUES: I do not desire you to please me; I do desire you to
+15: sing. Come, more; another stanzo: call you 'em stanzos?
+16: AMIENS: What you will, Monsieur Jaques.
+17: JAQUES: Nay, I care not for their names; they owe me
+18: nothing. Will you sing?
+19: AMIENS: More at your request than to please myself.
+20: JAQUES: Well then, if ever I thank any man, I'll thank you;
+21: but that they call compliment is like the encounter
+22: of two dog-apes, and when a man thanks me heartily,
+23: methinks I have given him a penny and he renders me
+24: the beggarly thanks. Come, sing; and you that will
+25: not, hold your tongues.
+26: AMIENS: Well, I'll end the song. Sirs, cover the while; the
+27: duke will drink under this tree. He hath been all
+28: this day to look you.
+29: JAQUES: And I have been all this day to avoid him. He is
+30: too disputable for my company: I think of as many
+31: matters as he, but I give heaven thanks and make no
+32: boast of them. Come, warble, come.
+33: SONG.
+34: Who doth ambition shun
+35: And loves to live i' the sun,
+36: Seeking the food he eats
+37: And pleased with what he gets,
+38: Come hither, come hither, come hither:
+39: Here shall he see No enemy
+40: But winter and rough weather.
+41: I'll give you a verse to this note that I made
+42: yesterday in despite of my invention.
+43: AMIENS: And I'll sing it.
+44: JAQUES: Thus it goes:--
+45: If it do come to pass
+46: That any man turn ass,
+47: Leaving his wealth and ease,
+48: A stubborn will to please,
+49: Ducdame, ducdame, ducdame:
+50: Here shall he see
+51: Gross fools as he,
+52: An if he will come to me.
+53: AMIENS: What's that 'ducdame'?
+54: JAQUES: 'Tis a Greek invocation, to call fools into a
+55: circle. I'll go sleep, if I can; if I cannot, I'll
+56: rail against all the first-born of Egypt.
+57: AMIENS: And I'll go seek the duke: his banquet is prepared.
+ACT 2 SCENE 6
+
+1: ADAM: Dear master, I can go no further. O, I die for food!
+2: Here lie I down, and measure out my grave. Farewell,
+3: kind master.
+4: ORLANDO: Why, how now, Adam! no greater heart in thee? Live
+5: a little; comfort a little; cheer thyself a little.
+6: If this uncouth forest yield any thing savage, I
+7: will either be food for it or bring it for food to
+8: thee. Thy conceit is nearer death than thy powers.
+9: For my sake be comfortable; hold death awhile at
+10: the arm's end: I will here be with thee presently;
+11: and if I bring thee not something to eat, I will
+12: give thee leave to die: but if thou diest before I
+13: come, thou art a mocker of my labour. Well said!
+14: thou lookest cheerly, and I'll be with thee quickly.
+15: Yet thou liest in the bleak air: come, I will bear
+16: thee to some shelter; and thou shalt not die for
+17: lack of a dinner, if there live any thing in this
+18: desert. Cheerly, good Adam!
+ACT 2 SCENE 7
+
+1: DUKE SENIOR: I think he be transform'd into a beast;
+2: For I can no where find him like a man.
+3: First Lord: My lord, he is but even now gone hence:
+4: Here was he merry, hearing of a song.
+5: DUKE SENIOR: If he, compact of jars, grow musical,
+6: We shall have shortly discord in the spheres.
+7: Go, seek him: tell him I would speak with him.
+8: First Lord: He saves my labour by his own approach.
+9: DUKE SENIOR: Why, how now, monsieur! what a life is this,
+10: That your poor friends must woo your company?
+11: What, you look merrily!
+12: JAQUES: A fool, a fool! I met a fool i' the forest,
+13: A motley fool; a miserable world!
+14: As I do live by food, I met a fool
+15: Who laid him down and bask'd him in the sun,
+16: And rail'd on Lady Fortune in good terms,
+17: In good set terms and yet a motley fool.
+18: 'Good morrow, fool,' quoth I. 'No, sir,' quoth he,
+19: 'Call me not fool till heaven hath sent me fortune:'
+20: And then he drew a dial from his poke,
+21: And, looking on it with lack-lustre eye,
+22: Says very wisely, 'It is ten o'clock:
+23: Thus we may see,' quoth he, 'how the world wags:
+24: 'Tis but an hour ago since it was nine,
+25: And after one hour more 'twill be eleven;
+26: And so, from hour to hour, we ripe and ripe,
+27: And then, from hour to hour, we rot and rot;
+28: And thereby hangs a tale.' When I did hear
+29: The motley fool thus moral on the time,
+30: My lungs began to crow like chanticleer,
+31: That fools should be so deep-contemplative,
+32: And I did laugh sans intermission
+33: An hour by his dial. O noble fool!
+34: A worthy fool! Motley's the only wear.
+35: DUKE SENIOR: What fool is this?
+36: JAQUES: O worthy fool! One that hath been a courtier,
+37: And says, if ladies be but young and fair,
+38: They have the gift to know it: and in his brain,
+39: Which is as dry as the remainder biscuit
+40: After a voyage, he hath strange places cramm'd
+41: With observation, the which he vents
+42: In mangled forms. O that I were a fool!
+43: I am ambitious for a motley coat.
+44: DUKE SENIOR: Thou shalt have one.
+45: JAQUES: It is my only suit;
+46: Provided that you weed your better judgments
+47: Of all opinion that grows rank in them
+48: That I am wise. I must have liberty
+49: Withal, as large a charter as the wind,
+50: To blow on whom I please; for so fools have;
+51: And they that are most galled with my folly,
+52: They most must laugh. And why, sir, must they so?
+53: The 'why' is plain as way to parish church:
+54: He that a fool doth very wisely hit
+55: Doth very foolishly, although he smart,
+56: Not to seem senseless of the bob: if not,
+57: The wise man's folly is anatomized
+58: Even by the squandering glances of the fool.
+59: Invest me in my motley; give me leave
+60: To speak my mind, and I will through and through
+61: Cleanse the foul body of the infected world,
+62: If they will patiently receive my medicine.
+63: DUKE SENIOR: Fie on thee! I can tell what thou wouldst do.
+64: JAQUES: What, for a counter, would I do but good?
+65: DUKE SENIOR: Most mischievous foul sin, in chiding sin:
+66: For thou thyself hast been a libertine,
+67: As sensual as the brutish sting itself;
+68: And all the embossed sores and headed evils,
+69: That thou with licence of free foot hast caught,
+70: Wouldst thou disgorge into the general world.
+71: JAQUES: Why, who cries out on pride,
+72: That can therein tax any private party?
+73: Doth it not flow as hugely as the sea,
+74: Till that the weary very means do ebb?
+75: What woman in the city do I name,
+76: When that I say the city-woman bears
+77: The cost of princes on unworthy shoulders?
+78: Who can come in and say that I mean her,
+79: When such a one as she such is her neighbour?
+80: Or what is he of basest function
+81: That says his bravery is not of my cost,
+82: Thinking that I mean him, but therein suits
+83: His folly to the mettle of my speech?
+84: There then; how then? what then? Let me see wherein
+85: My tongue hath wrong'd him: if it do him right,
+86: Then he hath wrong'd himself; if he be free,
+87: Why then my taxing like a wild-goose flies,
+88: Unclaim'd of any man. But who comes here?
+89: ORLANDO: Forbear, and eat no more.
+90: JAQUES: Why, I have eat none yet.
+91: ORLANDO: Nor shalt not, till necessity be served.
+92: JAQUES: Of what kind should this cock come of?
+93: DUKE SENIOR: Art thou thus bolden'd, man, by thy distress,
+94: Or else a rude despiser of good manners,
+95: That in civility thou seem'st so empty?
+96: ORLANDO: You touch'd my vein at first: the thorny point
+97: Of bare distress hath ta'en from me the show
+98: Of smooth civility: yet am I inland bred
+99: And know some nurture. But forbear, I say:
+100: He dies that touches any of this fruit
+101: Till I and my affairs are answered.
+102: JAQUES: An you will not be answered with reason, I must die.
+103: DUKE SENIOR: What would you have? Your gentleness shall force
+104: More than your force move us to gentleness.
+105: ORLANDO: I almost die for food; and let me have it.
+106: DUKE SENIOR: Sit down and feed, and welcome to our table.
+107: ORLANDO: Speak you so gently? Pardon me, I pray you:
+108: I thought that all things had been savage here;
+109: And therefore put I on the countenance
+110: Of stern commandment. But whate'er you are
+111: That in this desert inaccessible,
+112: Under the shade of melancholy boughs,
+113: Lose and neglect the creeping hours of time
+114: If ever you have look'd on better days,
+115: If ever been where bells have knoll'd to church,
+116: If ever sat at any good man's feast,
+117: If ever from your eyelids wiped a tear
+118: And know what 'tis to pity and be pitied,
+119: Let gentleness my strong enforcement be:
+120: In the which hope I blush, and hide my sword.
+121: DUKE SENIOR: True is it that we have seen better days,
+122: And have with holy bell been knoll'd to church
+123: And sat at good men's feasts and wiped our eyes
+124: Of drops that sacred pity hath engender'd:
+125: And therefore sit you down in gentleness
+126: And take upon command what help we have
+127: That to your wanting may be minister'd.
+128: ORLANDO: Then but forbear your food a little while,
+129: Whiles, like a doe, I go to find my fawn
+130: And give it food. There is an old poor man,
+131: Who after me hath many a weary step
+132: Limp'd in pure love: till he be first sufficed,
+133: Oppress'd with two weak evils, age and hunger,
+134: I will not touch a bit.
+135: DUKE SENIOR: Go find him out,
+136: And we will nothing waste till you return.
+137: ORLANDO: I thank ye; and be blest for your good comfort!
+138: DUKE SENIOR: Thou seest we are not all alone unhappy:
+139: This wide and universal theatre
+140: Presents more woeful pageants than the scene
+141: Wherein we play in.
+142: JAQUES: All the world's a stage,
+143: And all the men and women merely players:
+144: They have their exits and their entrances;
+145: And one man in his time plays many parts,
+146: His acts being seven ages. At first the infant,
+147: Mewling and puking in the nurse's arms.
+148: And then the whining school-boy, with his satchel
+149: And shining morning face, creeping like snail
+150: Unwillingly to school. And then the lover,
+151: Sighing like furnace, with a woeful ballad
+152: Made to his mistress' eyebrow. Then a soldier,
+153: Full of strange oaths and bearded like the pard,
+154: Jealous in honour, sudden and quick in quarrel,
+155: Seeking the bubble reputation
+156: Even in the cannon's mouth. And then the justice,
+157: In fair round belly with good capon lined,
+158: With eyes severe and beard of formal cut,
+159: Full of wise saws and modern instances;
+160: And so he plays his part. The sixth age shifts
+161: Into the lean and slipper'd pantaloon,
+162: With spectacles on nose and pouch on side,
+163: His youthful hose, well saved, a world too wide
+164: For his shrunk shank; and his big manly voice,
+165: Turning again toward childish treble, pipes
+166: And whistles in his sound. Last scene of all,
+167: That ends this strange eventful history,
+168: Is second childishness and mere oblivion,
+169: Sans teeth, sans eyes, sans taste, sans everything.
+170: DUKE SENIOR: Welcome. Set down your venerable burthen,
+171: And let him feed.
+172: ORLANDO: I thank you most for him.
+173: ADAM: So had you need:
+174: I scarce can speak to thank you for myself.
+175: DUKE SENIOR: Welcome; fall to: I will not trouble you
+176: As yet, to question you about your fortunes.
+177: Give us some music; and, good cousin, sing.
+178: SONG.
+179: AMIENS: Blow, blow, thou winter wind.
+180: Thou art not so unkind
+181: As man's ingratitude;
+182: Thy tooth is not so keen,
+183: Because thou art not seen,
+184: Although thy breath be rude.
+185: Heigh-ho! sing, heigh-ho! unto the green holly:
+186: Most friendship is feigning, most loving mere folly:
+187: Then, heigh-ho, the holly!
+188: This life is most jolly.
+189: Freeze, freeze, thou bitter sky,
+190: That dost not bite so nigh
+191: As benefits forgot:
+192: Though thou the waters warp,
+193: Thy sting is not so sharp
+194: As friend remember'd not.
+195: Heigh-ho! sing, & c.
+ACT 3 SCENE 1
+
+1: DUKE FREDERICK: Not see him since? Sir, sir, that cannot be:
+2: But were I not the better part made mercy,
+3: I should not seek an absent argument
+4: Of my revenge, thou present. But look to it:
+5: Find out thy brother, wheresoe'er he is;
+6: Seek him with candle; bring him dead or living
+7: Within this twelvemonth, or turn thou no more
+8: To seek a living in our territory.
+9: Thy lands and all things that thou dost call thine
+10: Worth seizure do we seize into our hands,
+11: Till thou canst quit thee by thy brothers mouth
+12: Of what we think against thee.
+13: OLIVER: O that your highness knew my heart in this!
+14: I never loved my brother in my life.
+15: DUKE FREDERICK: More villain thou. Well, push him out of doors;
+16: And let my officers of such a nature
+17: Make an extent upon his house and lands:
+18: Do this expediently and turn him going.
+ACT 3 SCENE 2
+
+1: ORLANDO: Hang there, my verse, in witness of my love:
+2: And thou, thrice-crowned queen of night, survey
+3: With thy chaste eye, from thy pale sphere above,
+4: Thy huntress' name that my full life doth sway.
+5: O Rosalind! these trees shall be my books
+6: And in their barks my thoughts I'll character;
+7: That every eye which in this forest looks
+8: Shall see thy virtue witness'd every where.
+9: Run, run, Orlando; carve on every tree
+10: The fair, the chaste and unexpressive she.
+11: CORIN: And how like you this shepherd's life, Master Touchstone?
+12: TOUCHSTONE: Truly, shepherd, in respect of itself, it is a good
+13: life, but in respect that it is a shepherd's life,
+14: it is naught. In respect that it is solitary, I
+15: like it very well; but in respect that it is
+16: private, it is a very vile life. Now, in respect it
+17: is in the fields, it pleaseth me well; but in
+18: respect it is not in the court, it is tedious. As
+19: is it a spare life, look you, it fits my humour well;
+20: but as there is no more plenty in it, it goes much
+21: against my stomach. Hast any philosophy in thee, shepherd?
+22: CORIN: No more but that I know the more one sickens the
+23: worse at ease he is; and that he that wants money,
+24: means and content is without three good friends;
+25: that the property of rain is to wet and fire to
+26: burn; that good pasture makes fat sheep, and that a
+27: great cause of the night is lack of the sun; that
+28: he that hath learned no wit by nature nor art may
+29: complain of good breeding or comes of a very dull kindred.
+30: TOUCHSTONE: Such a one is a natural philosopher. Wast ever in
+31: court, shepherd?
+32: CORIN: No, truly.
+33: TOUCHSTONE: Then thou art damned.
+34: CORIN: Nay, I hope.
+35: TOUCHSTONE: Truly, thou art damned like an ill-roasted egg, all
+36: on one side.
+37: CORIN: For not being at court? Your reason.
+38: TOUCHSTONE: Why, if thou never wast at court, thou never sawest
+39: good manners; if thou never sawest good manners,
+40: then thy manners must be wicked; and wickedness is
+41: sin, and sin is damnation. Thou art in a parlous
+42: state, shepherd.
+43: CORIN: Not a whit, Touchstone: those that are good manners
+44: at the court are as ridiculous in the country as the
+45: behavior of the country is most mockable at the
+46: court. You told me you salute not at the court, but
+47: you kiss your hands: that courtesy would be
+48: uncleanly, if courtiers were shepherds.
+49: TOUCHSTONE: Instance, briefly; come, instance.
+50: CORIN: Why, we are still handling our ewes, and their
+51: fells, you know, are greasy.
+52: TOUCHSTONE: Why, do not your courtier's hands sweat? and is not
+53: the grease of a mutton as wholesome as the sweat of
+54: a man? Shallow, shallow. A better instance, I say; come.
+55: CORIN: Besides, our hands are hard.
+56: TOUCHSTONE: Your lips will feel them the sooner. Shallow again.
+57: A more sounder instance, come.
+58: CORIN: And they are often tarred over with the surgery of
+59: our sheep: and would you have us kiss tar? The
+60: courtier's hands are perfumed with civet.
+61: TOUCHSTONE: Most shallow man! thou worms-meat, in respect of a
+62: good piece of flesh indeed! Learn of the wise, and
+63: perpend: civet is of a baser birth than tar, the
+64: very uncleanly flux of a cat. Mend the instance, shepherd.
+65: CORIN: You have too courtly a wit for me: I'll rest.
+66: TOUCHSTONE: Wilt thou rest damned? God help thee, shallow man!
+67: God make incision in thee! thou art raw.
+68: CORIN: Sir, I am a true labourer: I earn that I eat, get
+69: that I wear, owe no man hate, envy no man's
+70: happiness, glad of other men's good, content with my
+71: harm, and the greatest of my pride is to see my ewes
+72: graze and my lambs suck.
+73: TOUCHSTONE: That is another simple sin in you, to bring the ewes
+74: and the rams together and to offer to get your
+75: living by the copulation of cattle; to be bawd to a
+76: bell-wether, and to betray a she-lamb of a
+77: twelvemonth to a crooked-pated, old, cuckoldly ram,
+78: out of all reasonable match. If thou beest not
+79: damned for this, the devil himself will have no
+80: shepherds; I cannot see else how thou shouldst
+81: 'scape.
+82: CORIN: Here comes young Master Ganymede, my new mistress's brother.
+83: ROSALIND: From the east to western Ind,
+84: No jewel is like Rosalind.
+85: Her worth, being mounted on the wind,
+86: Through all the world bears Rosalind.
+87: All the pictures fairest lined
+88: Are but black to Rosalind.
+89: Let no fair be kept in mind
+90: But the fair of Rosalind.
+91: TOUCHSTONE: I'll rhyme you so eight years together, dinners and
+92: suppers and sleeping-hours excepted: it is the
+93: right butter-women's rank to market.
+94: ROSALIND: Out, fool!
+95: TOUCHSTONE: For a taste:
+96: If a hart do lack a hind,
+97: Let him seek out Rosalind.
+98: If the cat will after kind,
+99: So be sure will Rosalind.
+100: Winter garments must be lined,
+101: So must slender Rosalind.
+102: They that reap must sheaf and bind;
+103: Then to cart with Rosalind.
+104: Sweetest nut hath sourest rind,
+105: Such a nut is Rosalind.
+106: He that sweetest rose will find
+107: Must find love's prick and Rosalind.
+108: This is the very false gallop of verses: why do you
+109: infect yourself with them?
+110: ROSALIND: Peace, you dull fool! I found them on a tree.
+111: TOUCHSTONE: Truly, the tree yields bad fruit.
+112: ROSALIND: I'll graff it with you, and then I shall graff it
+113: with a medlar: then it will be the earliest fruit
+114: i' the country; for you'll be rotten ere you be half
+115: ripe, and that's the right virtue of the medlar.
+116: TOUCHSTONE: You have said; but whether wisely or no, let the
+117: forest judge.
+118: ROSALIND: Peace! Here comes my sister, reading: stand aside.
+119: CELIA: [Reads]
+120: Why should this a desert be?
+121: For it is unpeopled? No:
+122: Tongues I'll hang on every tree,
+123: That shall civil sayings show:
+124: Some, how brief the life of man
+125: Runs his erring pilgrimage,
+126: That the stretching of a span
+127: Buckles in his sum of age;
+128: Some, of violated vows
+129: 'Twixt the souls of friend and friend:
+130: But upon the fairest boughs,
+131: Or at every sentence end,
+132: Will I Rosalinda write,
+133: Teaching all that read to know
+134: The quintessence of every sprite
+135: Heaven would in little show.
+136: Therefore Heaven Nature charged
+137: That one body should be fill'd
+138: With all graces wide-enlarged:
+139: Nature presently distill'd
+140: Helen's cheek, but not her heart,
+141: Cleopatra's majesty,
+142: Atalanta's better part,
+143: Sad Lucretia's modesty.
+144: Thus Rosalind of many parts
+145: By heavenly synod was devised,
+146: Of many faces, eyes and hearts,
+147: To have the touches dearest prized.
+148: Heaven would that she these gifts should have,
+149: And I to live and die her slave.
+150: ROSALIND: O most gentle pulpiter! what tedious homily of love
+151: have you wearied your parishioners withal, and never
+152: cried 'Have patience, good people!'
+153: CELIA: How now! back, friends! Shepherd, go off a little.
+154: Go with him, sirrah.
+155: TOUCHSTONE: Come, shepherd, let us make an honourable retreat;
+156: though not with bag and baggage, yet with scrip and scrippage.
+157: CELIA: Didst thou hear these verses?
+158: ROSALIND: O, yes, I heard them all, and more too; for some of
+159: them had in them more feet than the verses would bear.
+160: CELIA: That's no matter: the feet might bear the verses.
+161: ROSALIND: Ay, but the feet were lame and could not bear
+162: themselves without the verse and therefore stood
+163: lamely in the verse.
+164: CELIA: But didst thou hear without wondering how thy name
+165: should be hanged and carved upon these trees?
+166: ROSALIND: I was seven of the nine days out of the wonder
+167: before you came; for look here what I found on a
+168: palm-tree. I was never so be-rhymed since
+169: Pythagoras' time, that I was an Irish rat, which I
+170: can hardly remember.
+171: CELIA: Trow you who hath done this?
+172: ROSALIND: Is it a man?
+173: CELIA: And a chain, that you once wore, about his neck.
+174: Change you colour?
+175: ROSALIND: I prithee, who?
+176: CELIA: O Lord, Lord! it is a hard matter for friends to
+177: meet; but mountains may be removed with earthquakes
+178: and so encounter.
+179: ROSALIND: Nay, but who is it?
+180: CELIA: Is it possible?
+181: ROSALIND: Nay, I prithee now with most petitionary vehemence,
+182: tell me who it is.
+183: CELIA: O wonderful, wonderful, and most wonderful
+184: wonderful! and yet again wonderful, and after that,
+185: out of all hooping!
+186: ROSALIND: Good my complexion! dost thou think, though I am
+187: caparisoned like a man, I have a doublet and hose in
+188: my disposition? One inch of delay more is a
+189: South-sea of discovery; I prithee, tell me who is it
+190: quickly, and speak apace. I would thou couldst
+191: stammer, that thou mightst pour this concealed man
+192: out of thy mouth, as wine comes out of a narrow-
+193: mouthed bottle, either too much at once, or none at
+194: all. I prithee, take the cork out of thy mouth that
+195: may drink thy tidings.
+196: CELIA: So you may put a man in your belly.
+197: ROSALIND: Is he of God's making? What manner of man? Is his
+198: head worth a hat, or his chin worth a beard?
+199: CELIA: Nay, he hath but a little beard.
+200: ROSALIND: Why, God will send more, if the man will be
+201: thankful: let me stay the growth of his beard, if
+202: thou delay me not the knowledge of his chin.
+203: CELIA: It is young Orlando, that tripped up the wrestler's
+204: heels and your heart both in an instant.
+205: ROSALIND: Nay, but the devil take mocking: speak, sad brow and
+206: true maid.
+207: CELIA: I' faith, coz, 'tis he.
+208: ROSALIND: Orlando?
+209: CELIA: Orlando.
+210: ROSALIND: Alas the day! what shall I do with my doublet and
+211: hose? What did he when thou sawest him? What said
+212: he? How looked he? Wherein went he? What makes
+213: him here? Did he ask for me? Where remains he?
+214: How parted he with thee? and when shalt thou see
+215: him again? Answer me in one word.
+216: CELIA: You must borrow me Gargantua's mouth first: 'tis a
+217: word too great for any mouth of this age's size. To
+218: say ay and no to these particulars is more than to
+219: answer in a catechism.
+220: ROSALIND: But doth he know that I am in this forest and in
+221: man's apparel? Looks he as freshly as he did the
+222: day he wrestled?
+223: CELIA: It is as easy to count atomies as to resolve the
+224: propositions of a lover; but take a taste of my
+225: finding him, and relish it with good observance.
+226: I found him under a tree, like a dropped acorn.
+227: ROSALIND: It may well be called Jove's tree, when it drops
+228: forth such fruit.
+229: CELIA: Give me audience, good madam.
+230: ROSALIND: Proceed.
+231: CELIA: There lay he, stretched along, like a wounded knight.
+232: ROSALIND: Though it be pity to see such a sight, it well
+233: becomes the ground.
+234: CELIA: Cry 'holla' to thy tongue, I prithee; it curvets
+235: unseasonably. He was furnished like a hunter.
+236: ROSALIND: O, ominous! he comes to kill my heart.
+237: CELIA: I would sing my song without a burden: thou bringest
+238: me out of tune.
+239: ROSALIND: Do you not know I am a woman? when I think, I must
+240: speak. Sweet, say on.
+241: CELIA: You bring me out. Soft! comes he not here?
+242: ROSALIND: 'Tis he: slink by, and note him.
+243: JAQUES: I thank you for your company; but, good faith, I had
+244: as lief have been myself alone.
+245: ORLANDO: And so had I; but yet, for fashion sake, I thank you
+246: too for your society.
+247: JAQUES: God be wi' you: let's meet as little as we can.
+248: ORLANDO: I do desire we may be better strangers.
+249: JAQUES: I pray you, mar no more trees with writing
+250: love-songs in their barks.
+251: ORLANDO: I pray you, mar no more of my verses with reading
+252: them ill-favouredly.
+253: JAQUES: Rosalind is your love's name?
+254: ORLANDO: Yes, just.
+255: JAQUES: I do not like her name.
+256: ORLANDO: There was no thought of pleasing you when she was
+257: christened.
+258: JAQUES: What stature is she of?
+259: ORLANDO: Just as high as my heart.
+260: JAQUES: You are full of pretty answers. Have you not been
+261: acquainted with goldsmiths' wives, and conned them
+262: out of rings?
+263: ORLANDO: Not so; but I answer you right painted cloth, from
+264: whence you have studied your questions.
+265: JAQUES: You have a nimble wit: I think 'twas made of
+266: Atalanta's heels. Will you sit down with me? and
+267: we two will rail against our mistress the world and
+268: all our misery.
+269: ORLANDO: I will chide no breather in the world but myself,
+270: against whom I know most faults.
+271: JAQUES: The worst fault you have is to be in love.
+272: ORLANDO: 'Tis a fault I will not change for your best virtue.
+273: I am weary of you.
+274: JAQUES: By my troth, I was seeking for a fool when I found
+275: you.
+276: ORLANDO: He is drowned in the brook: look but in, and you
+277: shall see him.
+278: JAQUES: There I shall see mine own figure.
+279: ORLANDO: Which I take to be either a fool or a cipher.
+280: JAQUES: I'll tarry no longer with you: farewell, good
+281: Signior Love.
+282: ORLANDO: I am glad of your departure: adieu, good Monsieur
+283: Melancholy.
+284: ROSALIND: [Aside to CELIA] I will speak to him, like a saucy
+285: lackey and under that habit play the knave with him.
+286: Do you hear, forester?
+287: ORLANDO: Very well: what would you?
+288: ROSALIND: I pray you, what is't o'clock?
+289: ORLANDO: You should ask me what time o' day: there's no clock
+290: in the forest.
+291: ROSALIND: Then there is no true lover in the forest; else
+292: sighing every minute and groaning every hour would
+293: detect the lazy foot of Time as well as a clock.
+294: ORLANDO: And why not the swift foot of Time? had not that
+295: been as proper?
+296: ROSALIND: By no means, sir: Time travels in divers paces with
+297: divers persons. I'll tell you who Time ambles
+298: withal, who Time trots withal, who Time gallops
+299: withal and who he stands still withal.
+300: ORLANDO: I prithee, who doth he trot withal?
+301: ROSALIND: Marry, he trots hard with a young maid between the
+302: contract of her marriage and the day it is
+303: solemnized: if the interim be but a se'nnight,
+304: Time's pace is so hard that it seems the length of
+305: seven year.
+306: ORLANDO: Who ambles Time withal?
+307: ROSALIND: With a priest that lacks Latin and a rich man that
+308: hath not the gout, for the one sleeps easily because
+309: he cannot study, and the other lives merrily because
+310: he feels no pain, the one lacking the burden of lean
+311: and wasteful learning, the other knowing no burden
+312: of heavy tedious penury; these Time ambles withal.
+313: ORLANDO: Who doth he gallop withal?
+314: ROSALIND: With a thief to the gallows, for though he go as
+315: softly as foot can fall, he thinks himself too soon there.
+316: ORLANDO: Who stays it still withal?
+317: ROSALIND: With lawyers in the vacation, for they sleep between
+318: term and term and then they perceive not how Time moves.
+319: ORLANDO: Where dwell you, pretty youth?
+320: ROSALIND: With this shepherdess, my sister; here in the
+321: skirts of the forest, like fringe upon a petticoat.
+322: ORLANDO: Are you native of this place?
+323: ROSALIND: As the cony that you see dwell where she is kindled.
+324: ORLANDO: Your accent is something finer than you could
+325: purchase in so removed a dwelling.
+326: ROSALIND: I have been told so of many: but indeed an old
+327: religious uncle of mine taught me to speak, who was
+328: in his youth an inland man; one that knew courtship
+329: too well, for there he fell in love. I have heard
+330: him read many lectures against it, and I thank God
+331: I am not a woman, to be touched with so many
+332: giddy offences as he hath generally taxed their
+333: whole sex withal.
+334: ORLANDO: Can you remember any of the principal evils that he
+335: laid to the charge of women?
+336: ROSALIND: There were none principal; they were all like one
+337: another as half-pence are, every one fault seeming
+338: monstrous till his fellow fault came to match it.
+339: ORLANDO: I prithee, recount some of them.
+340: ROSALIND: No, I will not cast away my physic but on those that
+341: are sick. There is a man haunts the forest, that
+342: abuses our young plants with carving 'Rosalind' on
+343: their barks; hangs odes upon hawthorns and elegies
+344: on brambles, all, forsooth, deifying the name of
+345: Rosalind: if I could meet that fancy-monger I would
+346: give him some good counsel, for he seems to have the
+347: quotidian of love upon him.
+348: ORLANDO: I am he that is so love-shaked: I pray you tell me
+349: your remedy.
+350: ROSALIND: There is none of my uncle's marks upon you: he
+351: taught me how to know a man in love; in which cage
+352: of rushes I am sure you are not prisoner.
+353: ORLANDO: What were his marks?
+354: ROSALIND: A lean cheek, which you have not, a blue eye and
+355: sunken, which you have not, an unquestionable
+356: spirit, which you have not, a beard neglected,
+357: which you have not; but I pardon you for that, for
+358: simply your having in beard is a younger brother's
+359: revenue: then your hose should be ungartered, your
+360: bonnet unbanded, your sleeve unbuttoned, your shoe
+361: untied and every thing about you demonstrating a
+362: careless desolation; but you are no such man; you
+363: are rather point-device in your accoutrements as
+364: loving yourself than seeming the lover of any other.
+365: ORLANDO: Fair youth, I would I could make thee believe I love.
+366: ROSALIND: Me believe it! you may as soon make her that you
+367: love believe it; which, I warrant, she is apter to
+368: do than to confess she does: that is one of the
+369: points in the which women still give the lie to
+370: their consciences. But, in good sooth, are you he
+371: that hangs the verses on the trees, wherein Rosalind
+372: is so admired?
+373: ORLANDO: I swear to thee, youth, by the white hand of
+374: Rosalind, I am that he, that unfortunate he.
+375: ROSALIND: But are you so much in love as your rhymes speak?
+376: ORLANDO: Neither rhyme nor reason can express how much.
+377: ROSALIND: Love is merely a madness, and, I tell you, deserves
+378: as well a dark house and a whip as madmen do: and
+379: the reason why they are not so punished and cured
+380: is, that the lunacy is so ordinary that the whippers
+381: are in love too. Yet I profess curing it by counsel.
+382: ORLANDO: Did you ever cure any so?
+383: ROSALIND: Yes, one, and in this manner. He was to imagine me
+384: his love, his mistress; and I set him every day to
+385: woo me: at which time would I, being but a moonish
+386: youth, grieve, be effeminate, changeable, longing
+387: and liking, proud, fantastical, apish, shallow,
+388: inconstant, full of tears, full of smiles, for every
+389: passion something and for no passion truly any
+390: thing, as boys and women are for the most part
+391: cattle of this colour; would now like him, now loathe
+392: him; then entertain him, then forswear him; now weep
+393: for him, then spit at him; that I drave my suitor
+394: from his mad humour of love to a living humour of
+395: madness; which was, to forswear the full stream of
+396: the world, and to live in a nook merely monastic.
+397: And thus I cured him; and this way will I take upon
+398: me to wash your liver as clean as a sound sheep's
+399: heart, that there shall not be one spot of love in't.
+400: ORLANDO: I would not be cured, youth.
+401: ROSALIND: I would cure you, if you would but call me Rosalind
+402: and come every day to my cote and woo me.
+403: ORLANDO: Now, by the faith of my love, I will: tell me
+404: where it is.
+405: ROSALIND: Go with me to it and I'll show it you and by the way
+406: you shall tell me where in the forest you live.
+407: Will you go?
+408: ORLANDO: With all my heart, good youth.
+409: ROSALIND: Nay you must call me Rosalind. Come, sister, will you go?
+ACT 3 SCENE 3
+
+1: TOUCHSTONE: Come apace, good Audrey: I will fetch up your
+2: goats, Audrey. And how, Audrey? am I the man yet?
+3: doth my simple feature content you?
+4: AUDREY: Your features! Lord warrant us! what features!
+5: TOUCHSTONE: I am here with thee and thy goats, as the most
+6: capricious poet, honest Ovid, was among the Goths.
+7: JAQUES: [Aside] O knowledge ill-inhabited, worse than Jove
+8: in a thatched house!
+9: TOUCHSTONE: When a man's verses cannot be understood, nor a
+10: man's good wit seconded with the forward child
+11: Understanding, it strikes a man more dead than a
+12: great reckoning in a little room. Truly, I would
+13: the gods had made thee poetical.
+14: AUDREY: I do not know what 'poetical' is: is it honest in
+15: deed and word? is it a true thing?
+16: TOUCHSTONE: No, truly; for the truest poetry is the most
+17: feigning; and lovers are given to poetry, and what
+18: they swear in poetry may be said as lovers they do feign.
+19: AUDREY: Do you wish then that the gods had made me poetical?
+20: TOUCHSTONE: I do, truly; for thou swearest to me thou art
+21: honest: now, if thou wert a poet, I might have some
+22: hope thou didst feign.
+23: AUDREY: Would you not have me honest?
+24: TOUCHSTONE: No, truly, unless thou wert hard-favoured; for
+25: honesty coupled to beauty is to have honey a sauce to sugar.
+26: JAQUES: [Aside] A material fool!
+27: AUDREY: Well, I am not fair; and therefore I pray the gods
+28: make me honest.
+29: TOUCHSTONE: Truly, and to cast away honesty upon a foul slut
+30: were to put good meat into an unclean dish.
+31: AUDREY: I am not a slut, though I thank the gods I am foul.
+32: TOUCHSTONE: Well, praised be the gods for thy foulness!
+33: sluttishness may come hereafter. But be it as it may
+34: be, I will marry thee, and to that end I have been
+35: with Sir Oliver Martext, the vicar of the next
+36: village, who hath promised to meet me in this place
+37: of the forest and to couple us.
+38: JAQUES: [Aside] I would fain see this meeting.
+39: AUDREY: Well, the gods give us joy!
+40: TOUCHSTONE: Amen. A man may, if he were of a fearful heart,
+41: stagger in this attempt; for here we have no temple
+42: but the wood, no assembly but horn-beasts. But what
+43: though? C ourage! As horns are odious, they are
+44: necessary. It is said, 'many a man knows no end of
+45: his goods:' right; many a man has good horns, and
+46: knows no end of them. Well, that is the dowry of
+47: his wife; 'tis none of his own getting. Horns?
+48: Even so. Poor men alone? No, no; the noblest deer
+49: hath them as huge as the rascal. Is the single man
+50: therefore blessed? No: as a walled town is more
+51: worthier than a village, so is the forehead of a
+52: married man more honourable than the bare brow of a
+53: bachelor; and by how much defence is better than no
+54: skill, by so much is a horn more precious than to
+55: want. Here comes Sir Oliver.
+56: Sir Oliver Martext, you are well met: will you
+57: dispatch us here under this tree, or shall we go
+58: with you to your chapel?
+59: SIR OLIVER MARTEXT: Is there none here to give the woman?
+60: TOUCHSTONE: I will not take her on gift of any man.
+61: SIR OLIVER MARTEXT: Truly, she must be given, or the marriage is not lawful.
+62: JAQUES: [Advancing]
+63: Proceed, proceed I'll give her.
+64: TOUCHSTONE: Good even, good Master What-ye-call't: how do you,
+65: sir? You are very well met: God 'ild you for your
+66: last company: I am very glad to see you: even a
+67: toy in hand here, sir: nay, pray be covered.
+68: JAQUES: Will you be married, motley?
+69: TOUCHSTONE: As the ox hath his bow, sir, the horse his curb and
+70: the falcon her bells, so man hath his desires; and
+71: as pigeons bill, so wedlock would be nibbling.
+72: JAQUES: And will you, being a man of your breeding, be
+73: married under a bush like a beggar? Get you to
+74: church, and have a good priest that can tell you
+75: what marriage is: this fellow will but join you
+76: together as they join wainscot; then one of you will
+77: prove a shrunk panel and, like green timber, warp, warp.
+78: TOUCHSTONE: [Aside] I am not in the mind but I were better to be
+79: married of him than of another: for he is not like
+80: to marry me well; and not being well married, it
+81: will be a good excuse for me hereafter to leave my wife.
+82: JAQUES: Go thou with me, and let me counsel thee.
+83: TOUCHSTONE: 'Come, sweet Audrey:
+84: We must be married, or we must live in bawdry.
+85: Farewell, good Master Oliver: not,--
+86: O sweet Oliver,
+87: O brave Oliver,
+88: Leave me not behind thee: but,--
+89: Wind away,
+90: Begone, I say,
+91: I will not to wedding with thee.
+92: SIR OLIVER MARTEXT: 'Tis no matter: ne'er a fantastical knave of them
+93: all shall flout me out of my calling.
+ACT 3 SCENE 4
+
+1: ROSALIND: Never talk to me; I will weep.
+2: CELIA: Do, I prithee; but yet have the grace to consider
+3: that tears do not become a man.
+4: ROSALIND: But have I not cause to weep?
+5: CELIA: As good cause as one would desire; therefore weep.
+6: ROSALIND: His very hair is of the dissembling colour.
+7: CELIA: Something browner than Judas's marry, his kisses are
+8: Judas's own children.
+9: ROSALIND: I' faith, his hair is of a good colour.
+10: CELIA: An excellent colour: your chestnut was ever the only colour.
+11: ROSALIND: And his kissing is as full of sanctity as the touch
+12: of holy bread.
+13: CELIA: He hath bought a pair of cast lips of Diana: a nun
+14: of winter's sisterhood kisses not more religiously;
+15: the very ice of chastity is in them.
+16: ROSALIND: But why did he swear he would come this morning, and
+17: comes not?
+18: CELIA: Nay, certainly, there is no truth in him.
+19: ROSALIND: Do you think so?
+20: CELIA: Yes; I think he is not a pick-purse nor a
+21: horse-stealer, but for his verity in love, I do
+22: think him as concave as a covered goblet or a
+23: worm-eaten nut.
+24: ROSALIND: Not true in love?
+25: CELIA: Yes, when he is in; but I think he is not in.
+26: ROSALIND: You have heard him swear downright he was.
+27: CELIA: 'Was' is not 'is:' besides, the oath of a lover is
+28: no stronger than the word of a tapster; they are
+29: both the confirmer of false reckonings. He attends
+30: here in the forest on the duke your father.
+31: ROSALIND: I met the duke yesterday and had much question with
+32: him: he asked me of what parentage I was; I told
+33: him, of as good as he; so he laughed and let me go.
+34: But what talk we of fathers, when there is such a
+35: man as Orlando?
+36: CELIA: O, that's a brave man! he writes brave verses,
+37: speaks brave words, swears brave oaths and breaks
+38: them bravely, quite traverse, athwart the heart of
+39: his lover; as a puisny tilter, that spurs his horse
+40: but on one side, breaks his staff like a noble
+41: goose: but all's brave that youth mounts and folly
+42: guides. Who comes here?
+43: CORIN: Mistress and master, you have oft inquired
+44: After the shepherd that complain'd of love,
+45: Who you saw sitting by me on the turf,
+46: Praising the proud disdainful shepherdess
+47: That was his mistress.
+48: CELIA: Well, and what of him?
+49: CORIN: If you will see a pageant truly play'd,
+50: Between the pale complexion of true love
+51: And the red glow of scorn and proud disdain,
+52: Go hence a little and I shall conduct you,
+53: If you will mark it.
+54: ROSALIND: O, come, let us remove:
+55: The sight of lovers feedeth those in love.
+56: Bring us to this sight, and you shall say
+57: I'll prove a busy actor in their play.
+ACT 3 SCENE 5
+
+1: SILVIUS: Sweet Phebe, do not scorn me; do not, Phebe;
+2: Say that you love me not, but say not so
+3: In bitterness. The common executioner,
+4: Whose heart the accustom'd sight of death makes hard,
+5: Falls not the axe upon the humbled neck
+6: But first begs pardon: will you sterner be
+7: Than he that dies and lives by bloody drops?
+8: PHEBE: I would not be thy executioner:
+9: I fly thee, for I would not injure thee.
+10: Thou tell'st me there is murder in mine eye:
+11: 'Tis pretty, sure, and very probable,
+12: That eyes, that are the frail'st and softest things,
+13: Who shut their coward gates on atomies,
+14: Should be call'd tyrants, butchers, murderers!
+15: Now I do frown on thee with all my heart;
+16: And if mine eyes can wound, now let them kill thee:
+17: Now counterfeit to swoon; why now fall down;
+18: Or if thou canst not, O, for shame, for shame,
+19: Lie not, to say mine eyes are murderers!
+20: Now show the wound mine eye hath made in thee:
+21: Scratch thee but with a pin, and there remains
+22: Some scar of it; lean but upon a rush,
+23: The cicatrice and capable impressure
+24: Thy palm some moment keeps; but now mine eyes,
+25: Which I have darted at thee, hurt thee not,
+26: Nor, I am sure, there is no force in eyes
+27: That can do hurt.
+28: SILVIUS: O dear Phebe,
+29: If ever,--as that ever may be near,--
+30: You meet in some fresh cheek the power of fancy,
+31: Then shall you know the wounds invisible
+32: That love's keen arrows make.
+33: PHEBE: But till that time
+34: Come not thou near me: and when that time comes,
+35: Afflict me with thy mocks, pity me not;
+36: As till that time I shall not pity thee.
+37: ROSALIND: And why, I pray you? Who might be your mother,
+38: That you insult, exult, and all at once,
+39: Over the wretched? What though you have no beauty,--
+40: As, by my faith, I see no more in you
+41: Than without candle may go dark to bed--
+42: Must you be therefore proud and pitiless?
+43: Why, what means this? Why do you look on me?
+44: I see no more in you than in the ordinary
+45: Of nature's sale-work. 'Od's my little life,
+46: I think she means to tangle my eyes too!
+47: No, faith, proud mistress, hope not after it:
+48: 'Tis not your inky brows, your black silk hair,
+49: Your bugle eyeballs, nor your cheek of cream,
+50: That can entame my spirits to your worship.
+51: You foolish shepherd, wherefore do you follow her,
+52: Like foggy south puffing with wind and rain?
+53: You are a thousand times a properer man
+54: Than she a woman: 'tis such fools as you
+55: That makes the world full of ill-favour'd children:
+56: 'Tis not her glass, but you, that flatters her;
+57: And out of you she sees herself more proper
+58: Than any of her lineaments can show her.
+59: But, mistress, know yourself: down on your knees,
+60: And thank heaven, fasting, for a good man's love:
+61: For I must tell you friendly in your ear,
+62: Sell when you can: you are not for all markets:
+63: Cry the man mercy; love him; take his offer:
+64: Foul is most foul, being foul to be a scoffer.
+65: So take her to thee, shepherd: fare you well.
+66: PHEBE: Sweet youth, I pray you, chide a year together:
+67: I had rather hear you chide than this man woo.
+68: ROSALIND: He's fallen in love with your foulness and she'll
+69: fall in love with my anger. If it be so, as fast as
+70: she answers thee with frowning looks, I'll sauce her
+71: with bitter words. Why look you so upon me?
+72: PHEBE: For no ill will I bear you.
+73: ROSALIND: I pray you, do not fall in love with me,
+74: For I am falser than vows made in wine:
+75: Besides, I like you not. If you will know my house,
+76: 'Tis at the tuft of olives here hard by.
+77: Will you go, sister? Shepherd, ply her hard.
+78: Come, sister. Shepherdess, look on him better,
+79: And be not proud: though all the world could see,
+80: None could be so abused in sight as he.
+81: Come, to our flock.
+82: PHEBE: Dead Shepherd, now I find thy saw of might,
+83: 'Who ever loved that loved not at first sight?'
+84: SILVIUS: Sweet Phebe,--
+85: PHEBE: Ha, what say'st thou, Silvius?
+86: SILVIUS: Sweet Phebe, pity me.
+87: PHEBE: Why, I am sorry for thee, gentle Silvius.
+88: SILVIUS: Wherever sorrow is, relief would be:
+89: If you do sorrow at my grief in love,
+90: By giving love your sorrow and my grief
+91: Were both extermined.
+92: PHEBE: Thou hast my love: is not that neighbourly?
+93: SILVIUS: I would have you.
+94: PHEBE: Why, that were covetousness.
+95: Silvius, the time was that I hated thee,
+96: And yet it is not that I bear thee love;
+97: But since that thou canst talk of love so well,
+98: Thy company, which erst was irksome to me,
+99: I will endure, and I'll employ thee too:
+100: But do not look for further recompense
+101: Than thine own gladness that thou art employ'd.
+102: SILVIUS: So holy and so perfect is my love,
+103: And I in such a poverty of grace,
+104: That I shall think it a most plenteous crop
+105: To glean the broken ears after the man
+106: That the main harvest reaps: loose now and then
+107: A scatter'd smile, and that I'll live upon.
+108: PHEBE: Know'st now the youth that spoke to me erewhile?
+109: SILVIUS: Not very well, but I have met him oft;
+110: And he hath bought the cottage and the bounds
+111: That the old carlot once was master of.
+112: PHEBE: Think not I love him, though I ask for him:
+113: 'Tis but a peevish boy; yet he talks well;
+114: But what care I for words? yet words do well
+115: When he that speaks them pleases those that hear.
+116: It is a pretty youth: not very pretty:
+117: But, sure, he's proud, and yet his pride becomes him:
+118: He'll make a proper man: the best thing in him
+119: Is his complexion; and faster than his tongue
+120: Did make offence his eye did heal it up.
+121: He is not very tall; yet for his years he's tall:
+122: His leg is but so so; and yet 'tis well:
+123: There was a pretty redness in his lip,
+124: A little riper and more lusty red
+125: Than that mix'd in his cheek; 'twas just the difference
+126: Between the constant red and mingled damask.
+127: There be some women, Silvius, had they mark'd him
+128: In parcels as I did, would have gone near
+129: To fall in love with him; but, for my part,
+130: I love him not nor hate him not; and yet
+131: I have more cause to hate him than to love him:
+132: For what had he to do to chide at me?
+133: He said mine eyes were black and my hair black:
+134: And, now I am remember'd, scorn'd at me:
+135: I marvel why I answer'd not again:
+136: But that's all one; omittance is no quittance.
+137: I'll write to him a very taunting letter,
+138: And thou shalt bear it: wilt thou, Silvius?
+139: SILVIUS: Phebe, with all my heart.
+ACT 4 SCENE 1
+
+1: JAQUES: I prithee, pretty youth, let me be better acquainted
+2: with thee.
+3: ROSALIND: They say you are a melancholy fellow.
+4: JAQUES: I am so; I do love it better than laughing.
+5: ROSALIND: Those that are in extremity of either are abominable
+6: fellows and betray themselves to every modern
+7: censure worse than drunkards.
+8: JAQUES: Why, 'tis good to be sad and say nothing.
+9: ROSALIND: Why then, 'tis good to be a post.
+10: JAQUES: I have neither the scholar's melancholy, which is
+11: emulation, nor the musician's, which is fantastical,
+12: nor the courtier's, which is proud, nor the
+13: soldier's, which is ambitious, nor the lawyer's,
+14: which is politic, nor the lady's, which is nice, nor
+15: the lover's, which is all these: but it is a
+16: melancholy of mine own, compounded of many simples,
+17: extracted from many objects, and indeed the sundry's
+18: contemplation of my travels, in which my often
+19: rumination wraps me m a most humorous sadness.
+20: ROSALIND: A traveller! By my faith, you have great reason to
+21: be sad: I fear you have sold your own lands to see
+22: other men's; then, to have seen much and to have
+23: nothing, is to have rich eyes and poor hands.
+24: JAQUES: Yes, I have gained my experience.
+25: ROSALIND: And your experience makes you sad: I had rather have
+26: a fool to make me merry than experience to make me
+27: sad; and to travel for it too!
+28: ORLANDO: Good day and happiness, dear Rosalind!
+29: JAQUES: Nay, then, God be wi' you, an you talk in blank verse.
+30: ROSALIND: Farewell, Monsieur Traveller: look you lisp and
+31: wear strange suits, disable all the benefits of your
+32: own country, be out of love with your nativity and
+33: almost chide God for making you that countenance you
+34: are, or I will scarce think you have swam in a
+35: gondola. Why, how now, Orlando! where have you been
+36: all this while? You a lover! An you serve me such
+37: another trick, never come in my sight more.
+38: ORLANDO: My fair Rosalind, I come within an hour of my promise.
+39: ROSALIND: Break an hour's promise in love! He that will
+40: divide a minute into a thousand parts and break but
+41: a part of the thousandth part of a minute in the
+42: affairs of love, it may be said of him that Cupid
+43: hath clapped him o' the shoulder, but I'll warrant
+44: him heart-whole.
+45: ORLANDO: Pardon me, dear Rosalind.
+46: ROSALIND: Nay, an you be so tardy, come no more in my sight: I
+47: had as lief be wooed of a snail.
+48: ORLANDO: Of a snail?
+49: ROSALIND: Ay, of a snail; for though he comes slowly, he
+50: carries his house on his head; a better jointure,
+51: I think, than you make a woman: besides he brings
+52: his destiny with him.
+53: ORLANDO: What's that?
+54: ROSALIND: Why, horns, which such as you are fain to be
+55: beholding to your wives for: but he comes armed in
+56: his fortune and prevents the slander of his wife.
+57: ORLANDO: Virtue is no horn-maker; and my Rosalind is virtuous.
+58: ROSALIND: And I am your Rosalind.
+59: CELIA: It pleases him to call you so; but he hath a
+60: Rosalind of a better leer than you.
+61: ROSALIND: Come, woo me, woo me, for now I am in a holiday
+62: humour and like enough to consent. What would you
+63: say to me now, an I were your very very Rosalind?
+64: ORLANDO: I would kiss before I spoke.
+65: ROSALIND: Nay, you were better speak first, and when you were
+66: gravelled for lack of matter, you might take
+67: occasion to kiss. Very good orators, when they are
+68: out, they will spit; and for lovers lacking--God
+69: warn us!--matter, the cleanliest shift is to kiss.
+70: ORLANDO: How if the kiss be denied?
+71: ROSALIND: Then she puts you to entreaty, and there begins new matter.
+72: ORLANDO: Who could be out, being before his beloved mistress?
+73: ROSALIND: Marry, that should you, if I were your mistress, or
+74: I should think my honesty ranker than my wit.
+75: ORLANDO: What, of my suit?
+76: ROSALIND: Not out of your apparel, and yet out of your suit.
+77: Am not I your Rosalind?
+78: ORLANDO: I take some joy to say you are, because I would be
+79: talking of her.
+80: ROSALIND: Well in her person I say I will not have you.
+81: ORLANDO: Then in mine own person I die.
+82: ROSALIND: No, faith, die by attorney. The poor world is
+83: almost six thousand years old, and in all this time
+84: there was not any man died in his own person,
+85: videlicit, in a love-cause. Troilus had his brains
+86: dashed out with a Grecian club; yet he did what he
+87: could to die before, and he is one of the patterns
+88: of love. Leander, he would have lived many a fair
+89: year, though Hero had turned nun, if it had not been
+90: for a hot midsummer night; for, good youth, he went
+91: but forth to wash him in the Hellespont and being
+92: taken with the cramp was drowned and the foolish
+93: coroners of that age found it was 'Hero of Sestos.'
+94: But these are all lies: men have died from time to
+95: time and worms have eaten them, but not for love.
+96: ORLANDO: I would not have my right Rosalind of this mind,
+97: for, I protest, her frown might kill me.
+98: ROSALIND: By this hand, it will not kill a fly. But come, now
+99: I will be your Rosalind in a more coming-on
+100: disposition, and ask me what you will. I will grant
+101: it.
+102: ORLANDO: Then love me, Rosalind.
+103: ROSALIND: Yes, faith, will I, Fridays and Saturdays and all.
+104: ORLANDO: And wilt thou have me?
+105: ROSALIND: Ay, and twenty such.
+106: ORLANDO: What sayest thou?
+107: ROSALIND: Are you not good?
+108: ORLANDO: I hope so.
+109: ROSALIND: Why then, can one desire too much of a good thing?
+110: Come, sister, you shall be the priest and marry us.
+111: Give me your hand, Orlando. What do you say, sister?
+112: ORLANDO: Pray thee, marry us.
+113: CELIA: I cannot say the words.
+114: ROSALIND: You must begin, 'Will you, Orlando--'
+115: CELIA: Go to. Will you, Orlando, have to wife this Rosalind?
+116: ORLANDO: I will.
+117: ROSALIND: Ay, but when?
+118: ORLANDO: Why now; as fast as she can marry us.
+119: ROSALIND: Then you must say 'I take thee, Rosalind, for wife.'
+120: ORLANDO: I take thee, Rosalind, for wife.
+121: ROSALIND: I might ask you for your commission; but I do take
+122: thee, Orlando, for my husband: there's a girl goes
+123: before the priest; and certainly a woman's thought
+124: runs before her actions.
+125: ORLANDO: So do all thoughts; they are winged.
+126: ROSALIND: Now tell me how long you would have her after you
+127: have possessed her.
+128: ORLANDO: For ever and a day.
+129: ROSALIND: Say 'a day,' without the 'ever.' No, no, Orlando;
+130: men are April when they woo, December when they wed:
+131: maids are May when they are maids, but the sky
+132: changes when they are wives. I will be more jealous
+133: of thee than a Barbary cock-pigeon over his hen,
+134: more clamorous than a parrot against rain, more
+135: new-fangled than an ape, more giddy in my desires
+136: than a monkey: I will weep for nothing, like Diana
+137: in the fountain, and I will do that when you are
+138: disposed to be merry; I will laugh like a hyen, and
+139: that when thou art inclined to sleep.
+140: ORLANDO: But will my Rosalind do so?
+141: ROSALIND: By my life, she will do as I do.
+142: ORLANDO: O, but she is wise.
+143: ROSALIND: Or else she could not have the wit to do this: the
+144: wiser, the waywarder: make the doors upon a woman's
+145: wit and it will out at the casement; shut that and
+146: 'twill out at the key-hole; stop that, 'twill fly
+147: with the smoke out at the chimney.
+148: ORLANDO: A man that had a wife with such a wit, he might say
+149: 'Wit, whither wilt?'
+150: ROSALIND: Nay, you might keep that cheque for it till you met
+151: your wife's wit going to your neighbour's bed.
+152: ORLANDO: And what wit could wit have to excuse that?
+153: ROSALIND: Marry, to say she came to seek you there. You shall
+154: never take her without her answer, unless you take
+155: her without her tongue. O, that woman that cannot
+156: make her fault her husband's occasion, let her
+157: never nurse her child herself, for she will breed
+158: it like a fool!
+159: ORLANDO: For these two hours, Rosalind, I will leave thee.
+160: ROSALIND: Alas! dear love, I cannot lack thee two hours.
+161: ORLANDO: I must attend the duke at dinner: by two o'clock I
+162: will be with thee again.
+163: ROSALIND: Ay, go your ways, go your ways; I knew what you
+164: would prove: my friends told me as much, and I
+165: thought no less: that flattering tongue of yours
+166: won me: 'tis but one cast away, and so, come,
+167: death! Two o'clock is your hour?
+168: ORLANDO: Ay, sweet Rosalind.
+169: ROSALIND: By my troth, and in good earnest, and so God mend
+170: me, and by all pretty oaths that are not dangerous,
+171: if you break one jot of your promise or come one
+172: minute behind your hour, I will think you the most
+173: pathetical break-promise and the most hollow lover
+174: and the most unworthy of her you call Rosalind that
+175: may be chosen out of the gross band of the
+176: unfaithful: therefore beware my censure and keep
+177: your promise.
+178: ORLANDO: With no less religion than if thou wert indeed my
+179: Rosalind: so adieu.
+180: ROSALIND: Well, Time is the old justice that examines all such
+181: offenders, and let Time try: adieu.
+182: CELIA: You have simply misused our sex in your love-prate:
+183: we must have your doublet and hose plucked over your
+184: head, and show the world what the bird hath done to
+185: her own nest.
+186: ROSALIND: O coz, coz, coz, my pretty little coz, that thou
+187: didst know how many fathom deep I am in love! But
+188: it cannot be sounded: my affection hath an unknown
+189: bottom, like the bay of Portugal.
+190: CELIA: Or rather, bottomless, that as fast as you pour
+191: affection in, it runs out.
+192: ROSALIND: No, that same wicked bastard of Venus that was begot
+193: of thought, conceived of spleen and born of madness,
+194: that blind rascally boy that abuses every one's eyes
+195: because his own are out, let him be judge how deep I
+196: am in love. I'll tell thee, Aliena, I cannot be out
+197: of the sight of Orlando: I'll go find a shadow and
+198: sigh till he come.
+199: CELIA: And I'll sleep.
+ACT 4 SCENE 2
+
+1: JAQUES: Which is he that killed the deer?
+2: A Lord: Sir, it was I.
+3: JAQUES: Let's present him to the duke, like a Roman
+4: conqueror; and it would do well to set the deer's
+5: horns upon his head, for a branch of victory. Have
+6: you no song, forester, for this purpose?
+7: Forester: Yes, sir.
+8: JAQUES: Sing it: 'tis no matter how it be in tune, so it
+9: make noise enough.
+10: SONG.
+11: Forester: What shall he have that kill'd the deer?
+12: His leather skin and horns to wear.
+13: Then sing him home;
+14: Take thou no scorn to wear the horn;
+15: It was a crest ere thou wast born:
+16: Thy father's father wore it,
+17: And thy father bore it:
+18: The horn, the horn, the lusty horn
+19: Is not a thing to laugh to scorn.
+ACT 4 SCENE 3
+
+1: ROSALIND: How say you now? Is it not past two o'clock? and
+2: here much Orlando!
+3: CELIA: I warrant you, with pure love and troubled brain, he
+4: hath ta'en his bow and arrows and is gone forth to
+5: sleep. Look, who comes here.
+6: SILVIUS: My errand is to you, fair youth;
+7: My gentle Phebe bid me give you this:
+8: I know not the contents; but, as I guess
+9: By the stern brow and waspish action
+10: Which she did use as she was writing of it,
+11: It bears an angry tenor: pardon me:
+12: I am but as a guiltless messenger.
+13: ROSALIND: Patience herself would startle at this letter
+14: And play the swaggerer; bear this, bear all:
+15: She says I am not fair, that I lack manners;
+16: She calls me proud, and that she could not love me,
+17: Were man as rare as phoenix. 'Od's my will!
+18: Her love is not the hare that I do hunt:
+19: Why writes she so to me? Well, shepherd, well,
+20: This is a letter of your own device.
+21: SILVIUS: No, I protest, I know not the contents:
+22: Phebe did write it.
+23: ROSALIND: Come, come, you are a fool
+24: And turn'd into the extremity of love.
+25: I saw her hand: she has a leathern hand.
+26: A freestone-colour'd hand; I verily did think
+27: That her old gloves were on, but 'twas her hands:
+28: She has a huswife's hand; but that's no matter:
+29: I say she never did invent this letter;
+30: This is a man's invention and his hand.
+31: SILVIUS: Sure, it is hers.
+32: ROSALIND: Why, 'tis a boisterous and a cruel style.
+33: A style for-challengers; why, she defies me,
+34: Like Turk to Christian: women's gentle brain
+35: Could not drop forth such giant-rude invention
+36: Such Ethiope words, blacker in their effect
+37: Than in their countenance. Will you hear the letter?
+38: SILVIUS: So please you, for I never heard it yet;
+39: Yet heard too much of Phebe's cruelty.
+40: ROSALIND: She Phebes me: mark how the tyrant writes.
+41: Art thou god to shepherd turn'd,
+42: That a maiden's heart hath burn'd?
+43: Can a woman rail thus?
+44: SILVIUS: Call you this railing?
+45: ROSALIND: [Reads]
+46: Why, thy godhead laid apart,
+47: Warr'st thou with a woman's heart?
+48: Did you ever hear such railing?
+49: Whiles the eye of man did woo me,
+50: That could do no vengeance to me.
+51: Meaning me a beast.
+52: If the scorn of your bright eyne
+53: Have power to raise such love in mine,
+54: Alack, in me what strange effect
+55: Would they work in mild aspect!
+56: Whiles you chid me, I did love;
+57: How then might your prayers move!
+58: He that brings this love to thee
+59: Little knows this love in me:
+60: And by him seal up thy mind;
+61: Whether that thy youth and kind
+62: Will the faithful offer take
+63: Of me and all that I can make;
+64: Or else by him my love deny,
+65: And then I'll study how to die.
+66: SILVIUS: Call you this chiding?
+67: CELIA: Alas, poor shepherd!
+68: ROSALIND: Do you pity him? no, he deserves no pity. Wilt
+69: thou love such a woman? What, to make thee an
+70: instrument and play false strains upon thee! not to
+71: be endured! Well, go your way to her, for I see
+72: love hath made thee a tame snake, and say this to
+73: her: that if she love me, I charge her to love
+74: thee; if she will not, I will never have her unless
+75: thou entreat for her. If you be a true lover,
+76: hence, and not a word; for here comes more company.
+77: OLIVER: Good morrow, fair ones: pray you, if you know,
+78: Where in the purlieus of this forest stands
+79: A sheep-cote fenced about with olive trees?
+80: CELIA: West of this place, down in the neighbour bottom:
+81: The rank of osiers by the murmuring stream
+82: Left on your right hand brings you to the place.
+83: But at this hour the house doth keep itself;
+84: There's none within.
+85: OLIVER: If that an eye may profit by a tongue,
+86: Then should I know you by description;
+87: Such garments and such years: 'The boy is fair,
+88: Of female favour, and bestows himself
+89: Like a ripe sister: the woman low
+90: And browner than her brother.' Are not you
+91: The owner of the house I did inquire for?
+92: CELIA: It is no boast, being ask'd, to say we are.
+93: OLIVER: Orlando doth commend him to you both,
+94: And to that youth he calls his Rosalind
+95: He sends this bloody napkin. Are you he?
+96: ROSALIND: I am: what must we understand by this?
+97: OLIVER: Some of my shame; if you will know of me
+98: What man I am, and how, and why, and where
+99: This handkercher was stain'd.
+100: CELIA: I pray you, tell it.
+101: OLIVER: When last the young Orlando parted from you
+102: He left a promise to return again
+103: Within an hour, and pacing through the forest,
+104: Chewing the food of sweet and bitter fancy,
+105: Lo, what befell! he threw his eye aside,
+106: And mark what object did present itself:
+107: Under an oak, whose boughs were moss'd with age
+108: And high top bald with dry antiquity,
+109: A wretched ragged man, o'ergrown with hair,
+110: Lay sleeping on his back: about his neck
+111: A green and gilded snake had wreathed itself,
+112: Who with her head nimble in threats approach'd
+113: The opening of his mouth; but suddenly,
+114: Seeing Orlando, it unlink'd itself,
+115: And with indented glides did slip away
+116: Into a bush: under which bush's shade
+117: A lioness, with udders all drawn dry,
+118: Lay couching, head on ground, with catlike watch,
+119: When that the sleeping man should stir; for 'tis
+120: The royal disposition of that beast
+121: To prey on nothing that doth seem as dead:
+122: This seen, Orlando did approach the man
+123: And found it was his brother, his elder brother.
+124: CELIA: O, I have heard him speak of that same brother;
+125: And he did render him the most unnatural
+126: That lived amongst men.
+127: OLIVER: And well he might so do,
+128: For well I know he was unnatural.
+129: ROSALIND: But, to Orlando: did he leave him there,
+130: Food to the suck'd and hungry lioness?
+131: OLIVER: Twice did he turn his back and purposed so;
+132: But kindness, nobler ever than revenge,
+133: And nature, stronger than his just occasion,
+134: Made him give battle to the lioness,
+135: Who quickly fell before him: in which hurtling
+136: From miserable slumber I awaked.
+137: CELIA: Are you his brother?
+138: ROSALIND: Wast you he rescued?
+139: CELIA: Was't you that did so oft contrive to kill him?
+140: OLIVER: 'Twas I; but 'tis not I I do not shame
+141: To tell you what I was, since my conversion
+142: So sweetly tastes, being the thing I am.
+143: ROSALIND: But, for the bloody napkin?
+144: OLIVER: By and by.
+145: When from the first to last betwixt us two
+146: Tears our recountments had most kindly bathed,
+147: As how I came into that desert place:--
+148: In brief, he led me to the gentle duke,
+149: Who gave me fresh array and entertainment,
+150: Committing me unto my brother's love;
+151: Who led me instantly unto his cave,
+152: There stripp'd himself, and here upon his arm
+153: The lioness had torn some flesh away,
+154: Which all this while had bled; and now he fainted
+155: And cried, in fainting, upon Rosalind.
+156: Brief, I recover'd him, bound up his wound;
+157: And, after some small space, being strong at heart,
+158: He sent me hither, stranger as I am,
+159: To tell this story, that you might excuse
+160: His broken promise, and to give this napkin
+161: Dyed in his blood unto the shepherd youth
+162: That he in sport doth call his Rosalind.
+163: CELIA: Why, how now, Ganymede! sweet Ganymede!
+164: OLIVER: Many will swoon when they do look on blood.
+165: CELIA: There is more in it. Cousin Ganymede!
+166: OLIVER: Look, he recovers.
+167: ROSALIND: I would I were at home.
+168: CELIA: We'll lead you thither.
+169: I pray you, will you take him by the arm?
+170: OLIVER: Be of good cheer, youth: you a man! you lack a
+171: man's heart.
+172: ROSALIND: I do so, I confess it. Ah, sirrah, a body would
+173: think this was well counterfeited! I pray you, tell
+174: your brother how well I counterfeited. Heigh-ho!
+175: OLIVER: This was not counterfeit: there is too great
+176: testimony in your complexion that it was a passion
+177: of earnest.
+178: ROSALIND: Counterfeit, I assure you.
+179: OLIVER: Well then, take a good heart and counterfeit to be a man.
+180: ROSALIND: So I do: but, i' faith, I should have been a woman by right.
+181: CELIA: Come, you look paler and paler: pray you, draw
+182: homewards. Good sir, go with us.
+183: OLIVER: That will I, for I must bear answer back
+184: How you excuse my brother, Rosalind.
+ACT 5 SCENE 1
+
+1: TOUCHSTONE: We shall find a time, Audrey; patience, gentle Audrey.
+2: AUDREY: Faith, the priest was good enough, for all the old
+3: gentleman's saying.
+4: TOUCHSTONE: A most wicked Sir Oliver, Audrey, a most vile
+5: Martext. But, Audrey, there is a youth here in the
+6: forest lays claim to you.
+7: AUDREY: Ay, I know who 'tis; he hath no interest in me in
+8: the world: here comes the man you mean.
+9: TOUCHSTONE: It is meat and drink to me to see a clown: by my
+10: troth, we that have good wits have much to answer
+11: for; we shall be flouting; we cannot hold.
+12: WILLIAM: Good even, Audrey.
+13: AUDREY: God ye good even, William.
+14: WILLIAM: And good even to you, sir.
+15: TOUCHSTONE: Good even, gentle friend. Cover thy head, cover thy
+16: head; nay, prithee, be covered. How old are you, friend?
+17: WILLIAM: Five and twenty, sir.
+18: TOUCHSTONE: A ripe age. Is thy name William?
+19: WILLIAM: William, sir.
+20: TOUCHSTONE: A fair name. Wast born i' the forest here?
+21: WILLIAM: Ay, sir, I thank God.
+22: TOUCHSTONE: 'Thank God;' a good answer. Art rich?
+23: WILLIAM: Faith, sir, so so.
+24: TOUCHSTONE: 'So so' is good, very good, very excellent good; and
+25: yet it is not; it is but so so. Art thou wise?
+26: WILLIAM: Ay, sir, I have a pretty wit.
+27: TOUCHSTONE: Why, thou sayest well. I do now remember a saying,
+28: 'The fool doth think he is wise, but the wise man
+29: knows himself to be a fool.' The heathen
+30: philosopher, when he had a desire to eat a grape,
+31: would open his lips when he put it into his mouth;
+32: meaning thereby that grapes were made to eat and
+33: lips to open. You do love this maid?
+34: WILLIAM: I do, sir.
+35: TOUCHSTONE: Give me your hand. Art thou learned?
+36: WILLIAM: No, sir.
+37: TOUCHSTONE: Then learn this of me: to have, is to have; for it
+38: is a figure in rhetoric that drink, being poured out
+39: of a cup into a glass, by filling the one doth empty
+40: the other; for all your writers do consent that ipse
+41: is he: now, you are not ipse, for I am he.
+42: WILLIAM: Which he, sir?
+43: TOUCHSTONE: He, sir, that must marry this woman. Therefore, you
+44: clown, abandon,--which is in the vulgar leave,--the
+45: society,--which in the boorish is company,--of this
+46: female,--which in the common is woman; which
+47: together is, abandon the society of this female, or,
+48: clown, thou perishest; or, to thy better
+49: understanding, diest; or, to wit I kill thee, make
+50: thee away, translate thy life into death, thy
+51: liberty into bondage: I will deal in poison with
+52: thee, or in bastinado, or in steel; I will bandy
+53: with thee in faction; I will o'errun thee with
+54: policy; I will kill thee a hundred and fifty ways:
+55: therefore tremble and depart.
+56: AUDREY: Do, good William.
+57: WILLIAM: God rest you merry, sir.
+58: CORIN: Our master and mistress seeks you; come, away, away!
+59: TOUCHSTONE: Trip, Audrey! trip, Audrey! I attend, I attend.
+ACT 5 SCENE 2
+
+1: ORLANDO: Is't possible that on so little acquaintance you
+2: should like her? that but seeing you should love
+3: her? and loving woo? and, wooing, she should
+4: grant? and will you persever to enjoy her?
+5: OLIVER: Neither call the giddiness of it in question, the
+6: poverty of her, the small acquaintance, my sudden
+7: wooing, nor her sudden consenting; but say with me,
+8: I love Aliena; say with her that she loves me;
+9: consent with both that we may enjoy each other: it
+10: shall be to your good; for my father's house and all
+11: the revenue that was old Sir Rowland's will I
+12: estate upon you, and here live and die a shepherd.
+13: ORLANDO: You have my consent. Let your wedding be to-morrow:
+14: thither will I invite the duke and all's contented
+15: followers. Go you and prepare Aliena; for look
+16: you, here comes my Rosalind.
+17: ROSALIND: God save you, brother.
+18: OLIVER: And you, fair sister.
+19: ROSALIND: O, my dear Orlando, how it grieves me to see thee
+20: wear thy heart in a scarf!
+21: ORLANDO: It is my arm.
+22: ROSALIND: I thought thy heart had been wounded with the claws
+23: of a lion.
+24: ORLANDO: Wounded it is, but with the eyes of a lady.
+25: ROSALIND: Did your brother tell you how I counterfeited to
+26: swoon when he showed me your handkerchief?
+27: ORLANDO: Ay, and greater wonders than that.
+28: ROSALIND: O, I know where you are: nay, 'tis true: there was
+29: never any thing so sudden but the fight of two rams
+30: and Caesar's thrasonical brag of 'I came, saw, and
+31: overcame:' for your brother and my sister no sooner
+32: met but they looked, no sooner looked but they
+33: loved, no sooner loved but they sighed, no sooner
+34: sighed but they asked one another the reason, no
+35: sooner knew the reason but they sought the remedy;
+36: and in these degrees have they made a pair of stairs
+37: to marriage which they will climb incontinent, or
+38: else be incontinent before marriage: they are in
+39: the very wrath of love and they will together; clubs
+40: cannot part them.
+41: ORLANDO: They shall be married to-morrow, and I will bid the
+42: duke to the nuptial. But, O, how bitter a thing it
+43: is to look into happiness through another man's
+44: eyes! By so much the more shall I to-morrow be at
+45: the height of heart-heaviness, by how much I shall
+46: think my brother happy in having what he wishes for.
+47: ROSALIND: Why then, to-morrow I cannot serve your turn for Rosalind?
+48: ORLANDO: I can live no longer by thinking.
+49: ROSALIND: I will weary you then no longer with idle talking.
+50: Know of me then, for now I speak to some purpose,
+51: that I know you are a gentleman of good conceit: I
+52: speak not this that you should bear a good opinion
+53: of my knowledge, insomuch I say I know you are;
+54: neither do I labour for a greater esteem than may in
+55: some little measure draw a belief from you, to do
+56: yourself good and not to grace me. Believe then, if
+57: you please, that I can do strange things: I have,
+58: since I was three year old, conversed with a
+59: magician, most profound in his art and yet not
+60: damnable. If you do love Rosalind so near the heart
+61: as your gesture cries it out, when your brother
+62: marries Aliena, shall you marry her: I know into
+63: what straits of fortune she is driven; and it is
+64: not impossible to me, if it appear not inconvenient
+65: to you, to set her before your eyes tomorrow human
+66: as she is and without any danger.
+67: ORLANDO: Speakest thou in sober meanings?
+68: ROSALIND: By my life, I do; which I tender dearly, though I
+69: say I am a magician. Therefore, put you in your
+70: best array: bid your friends; for if you will be
+71: married to-morrow, you shall, and to Rosalind, if you will.
+72: Look, here comes a lover of mine and a lover of hers.
+73: PHEBE: Youth, you have done me much ungentleness,
+74: To show the letter that I writ to you.
+75: ROSALIND: I care not if I have: it is my study
+76: To seem despiteful and ungentle to you:
+77: You are there followed by a faithful shepherd;
+78: Look upon him, love him; he worships you.
+79: PHEBE: Good shepherd, tell this youth what 'tis to love.
+80: SILVIUS: It is to be all made of sighs and tears;
+81: And so am I for Phebe.
+82: PHEBE: And I for Ganymede.
+83: ORLANDO: And I for Rosalind.
+84: ROSALIND: And I for no woman.
+85: SILVIUS: It is to be all made of faith and service;
+86: And so am I for Phebe.
+87: PHEBE: And I for Ganymede.
+88: ORLANDO: And I for Rosalind.
+89: ROSALIND: And I for no woman.
+90: SILVIUS: It is to be all made of fantasy,
+91: All made of passion and all made of wishes,
+92: All adoration, duty, and observance,
+93: All humbleness, all patience and impatience,
+94: All purity, all trial, all observance;
+95: And so am I for Phebe.
+96: PHEBE: And so am I for Ganymede.
+97: ORLANDO: And so am I for Rosalind.
+98: ROSALIND: And so am I for no woman.
+99: PHEBE: If this be so, why blame you me to love you?
+100: SILVIUS: If this be so, why blame you me to love you?
+101: ORLANDO: If this be so, why blame you me to love you?
+102: ROSALIND: Who do you speak to, 'Why blame you me to love you?'
+103: ORLANDO: To her that is not here, nor doth not hear.
+104: ROSALIND: Pray you, no more of this; 'tis like the howling
+105: of Irish wolves against the moon.
+106: I will help you, if I can:
+107: I would love you, if I could. To-morrow meet me all together.
+108: I will marry you, if ever I marry woman, and I'll be
+109: married to-morrow:
+110: I will satisfy you, if ever I satisfied man, and you
+111: shall be married to-morrow:
+112: I will content you, if what pleases you contents
+113: you, and you shall be married to-morrow.
+114: As you love Rosalind, meet:
+115: as you love Phebe, meet: and as I love no woman,
+116: I'll meet. So fare you well: I have left you commands.
+117: SILVIUS: I'll not fail, if I live.
+118: PHEBE: Nor I.
+119: ORLANDO: Nor I.
+ACT 5 SCENE 3
+
+1: TOUCHSTONE: To-morrow is the joyful day, Audrey; to-morrow will
+2: we be married.
+3: AUDREY: I do desire it with all my heart; and I hope it is
+4: no dishonest desire to desire to be a woman of the
+5: world. Here comes two of the banished duke's pages.
+6: First Page: Well met, honest gentleman.
+7: TOUCHSTONE: By my troth, well met. Come, sit, sit, and a song.
+8: Second Page: We are for you: sit i' the middle.
+9: First Page: Shall we clap into't roundly, without hawking or
+10: spitting or saying we are hoarse, which are the only
+11: prologues to a bad voice?
+12: Second Page: I'faith, i'faith; and both in a tune, like two
+13: gipsies on a horse.
+14: SONG.
+15: It was a lover and his lass,
+16: With a hey, and a ho, and a hey nonino,
+17: That o'er the green corn-field did pass
+18: In the spring time, the only pretty ring time,
+19: When birds do sing, hey ding a ding, ding:
+20: Sweet lovers love the spring.
+21: Between the acres of the rye,
+22: With a hey, and a ho, and a hey nonino
+23: These pretty country folks would lie,
+24: In spring time, & c.
+25: This carol they began that hour,
+26: With a hey, and a ho, and a hey nonino,
+27: How that a life was but a flower
+28: In spring time, & c.
+29: And therefore take the present time,
+30: With a hey, and a ho, and a hey nonino;
+31: For love is crowned with the prime
+32: In spring time, & c.
+33: TOUCHSTONE: Truly, young gentlemen, though there was no great
+34: matter in the ditty, yet the note was very
+35: untuneable.
+36: First Page: You are deceived, sir: we kept time, we lost not our time.
+37: TOUCHSTONE: By my troth, yes; I count it but time lost to hear
+38: such a foolish song. God be wi' you; and God mend
+39: your voices! Come, Audrey.
+ACT 5 SCENE 4
+
+1: DUKE SENIOR: Dost thou believe, Orlando, that the boy
+2: Can do all this that he hath promised?
+3: ORLANDO: I sometimes do believe, and sometimes do not;
+4: As those that fear they hope, and know they fear.
+5: ROSALIND: Patience once more, whiles our compact is urged:
+6: You say, if I bring in your Rosalind,
+7: You will bestow her on Orlando here?
+8: DUKE SENIOR: That would I, had I kingdoms to give with her.
+9: ROSALIND: And you say, you will have her, when I bring her?
+10: ORLANDO: That would I, were I of all kingdoms king.
+11: ROSALIND: You say, you'll marry me, if I be willing?
+12: PHEBE: That will I, should I die the hour after.
+13: ROSALIND: But if you do refuse to marry me,
+14: You'll give yourself to this most faithful shepherd?
+15: PHEBE: So is the bargain.
+16: ROSALIND: You say, that you'll have Phebe, if she will?
+17: SILVIUS: Though to have her and death were both one thing.
+18: ROSALIND: I have promised to make all this matter even.
+19: Keep you your word, O duke, to give your daughter;
+20: You yours, Orlando, to receive his daughter:
+21: Keep your word, Phebe, that you'll marry me,
+22: Or else refusing me, to wed this shepherd:
+23: Keep your word, Silvius, that you'll marry her.
+24: If she refuse me: and from hence I go,
+25: To make these doubts all even.
+26: DUKE SENIOR: I do remember in this shepherd boy
+27: Some lively touches of my daughter's favour.
+28: ORLANDO: My lord, the first time that I ever saw him
+29: Methought he was a brother to your daughter:
+30: But, my good lord, this boy is forest-born,
+31: And hath been tutor'd in the rudiments
+32: Of many desperate studies by his uncle,
+33: Whom he reports to be a great magician,
+34: Obscured in the circle of this forest.
+35: JAQUES: There is, sure, another flood toward, and these
+36: couples are coming to the ark. Here comes a pair of
+37: very strange beasts, which in all tongues are called fools.
+38: TOUCHSTONE: Salutation and greeting to you all!
+39: JAQUES: Good my lord, bid him welcome: this is the
+40: motley-minded gentleman that I have so often met in
+41: the forest: he hath been a courtier, he swears.
+42: TOUCHSTONE: If any man doubt that, let him put me to my
+43: purgation. I have trod a measure; I have flattered
+44: a lady; I have been politic with my friend, smooth
+45: with mine enemy; I have undone three tailors; I have
+46: had four quarrels, and like to have fought one.
+47: JAQUES: And how was that ta'en up?
+48: TOUCHSTONE: Faith, we met, and found the quarrel was upon the
+49: seventh cause.
+50: JAQUES: How seventh cause? Good my lord, like this fellow.
+51: DUKE SENIOR: I like him very well.
+52: TOUCHSTONE: God 'ild you, sir; I desire you of the like. I
+53: press in here, sir, amongst the rest of the country
+54: copulatives, to swear and to forswear: according as
+55: marriage binds and blood breaks: a poor virgin,
+56: sir, an ill-favoured thing, sir, but mine own; a poor
+57: humour of mine, sir, to take that that no man else
+58: will: rich honesty dwells like a miser, sir, in a
+59: poor house; as your pearl in your foul oyster.
+60: DUKE SENIOR: By my faith, he is very swift and sententious.
+61: TOUCHSTONE: According to the fool's bolt, sir, and such dulcet diseases.
+62: JAQUES: But, for the seventh cause; how did you find the
+63: quarrel on the seventh cause?
+64: TOUCHSTONE: Upon a lie seven times removed:--bear your body more
+65: seeming, Audrey:--as thus, sir. I did dislike the
+66: cut of a certain courtier's beard: he sent me word,
+67: if I said his beard was not cut well, he was in the
+68: mind it was: this is called the Retort Courteous.
+69: If I sent him word again 'it was not well cut,' he
+70: would send me word, he cut it to please himself:
+71: this is called the Quip Modest. If again 'it was
+72: not well cut,' he disabled my judgment: this is
+73: called the Reply Churlish. If again 'it was not
+74: well cut,' he would answer, I spake not true: this
+75: is called the Reproof Valiant. If again 'it was not
+76: well cut,' he would say I lied: this is called the
+77: Counter-cheque Quarrelsome: and so to the Lie
+78: Circumstantial and the Lie Direct.
+79: JAQUES: And how oft did you say his beard was not well cut?
+80: TOUCHSTONE: I durst go no further than the Lie Circumstantial,
+81: nor he durst not give me the Lie Direct; and so we
+82: measured swords and parted.
+83: JAQUES: Can you nominate in order now the degrees of the lie?
+84: TOUCHSTONE: O sir, we quarrel in print, by the book; as you have
+85: books for good manners: I will name you the degrees.
+86: The first, the Retort Courteous; the second, the
+87: Quip Modest; the third, the Reply Churlish; the
+88: fourth, the Reproof Valiant; the fifth, the
+89: Countercheque Quarrelsome; the sixth, the Lie with
+90: Circumstance; the seventh, the Lie Direct. All
+91: these you may avoid but the Lie Direct; and you may
+92: avoid that too, with an If. I knew when seven
+93: justices could not take up a quarrel, but when the
+94: parties were met themselves, one of them thought but
+95: of an If, as, 'If you said so, then I said so;' and
+96: they shook hands and swore brothers. Your If is the
+97: only peacemaker; much virtue in If.
+98: JAQUES: Is not this a rare fellow, my lord? he's as good at
+99: any thing and yet a fool.
+100: DUKE SENIOR: He uses his folly like a stalking-horse and under
+101: the presentation of that he shoots his wit.
+102: HYMEN: Then is there mirth in heaven,
+103: When earthly things made even
+104: Atone together.
+105: Good duke, receive thy daughter
+106: Hymen from heaven brought her,
+107: Yea, brought her hither,
+108: That thou mightst join her hand with his
+109: Whose heart within his bosom is.
+110: ROSALIND: [To DUKE SENIOR] To you I give myself, for I am yours.
+111: To you I give myself, for I am yours.
+112: DUKE SENIOR: If there be truth in sight, you are my daughter.
+113: ORLANDO: If there be truth in sight, you are my Rosalind.
+114: PHEBE: If sight and shape be true,
+115: Why then, my love adieu!
+116: ROSALIND: I'll have no father, if you be not he:
+117: I'll have no husband, if you be not he:
+118: Nor ne'er wed woman, if you be not she.
+119: HYMEN: Peace, ho! I bar confusion:
+120: 'Tis I must make conclusion
+121: Of these most strange events:
+122: Here's eight that must take hands
+123: To join in Hymen's bands,
+124: If truth holds true contents.
+125: You and you no cross shall part:
+126: You and you are heart in heart
+127: You to his love must accord,
+128: Or have a woman to your lord:
+129: You and you are sure together,
+130: As the winter to foul weather.
+131: Whiles a wedlock-hymn we sing,
+132: Feed yourselves with questioning;
+133: That reason wonder may diminish,
+134: How thus we met, and these things finish.
+135: SONG.
+136: Wedding is great Juno's crown:
+137: O blessed bond of board and bed!
+138: 'Tis Hymen peoples every town;
+139: High wedlock then be honoured:
+140: Honour, high honour and renown,
+141: To Hymen, god of every town!
+142: DUKE SENIOR: O my dear niece, welcome thou art to me!
+143: Even daughter, welcome, in no less degree.
+144: PHEBE: I will not eat my word, now thou art mine;
+145: Thy faith my fancy to thee doth combine.
+146: JAQUES DE BOYS: Let me have audience for a word or two:
+147: I am the second son of old Sir Rowland,
+148: That bring these tidings to this fair assembly.
+149: Duke Frederick, hearing how that every day
+150: Men of great worth resorted to this forest,
+151: Address'd a mighty power; which were on foot,
+152: In his own conduct, purposely to take
+153: His brother here and put him to the sword:
+154: And to the skirts of this wild wood he came;
+155: Where meeting with an old religious man,
+156: After some question with him, was converted
+157: Both from his enterprise and from the world,
+158: His crown bequeathing to his banish'd brother,
+159: And all their lands restored to them again
+160: That were with him exiled. This to be true,
+161: I do engage my life.
+162: DUKE SENIOR: Welcome, young man;
+163: Thou offer'st fairly to thy brothers' wedding:
+164: To one his lands withheld, and to the other
+165: A land itself at large, a potent dukedom.
+166: First, in this forest, let us do those ends
+167: That here were well begun and well begot:
+168: And after, every of this happy number
+169: That have endured shrewd days and nights with us
+170: Shall share the good of our returned fortune,
+171: According to the measure of their states.
+172: Meantime, forget this new-fall'n dignity
+173: And fall into our rustic revelry.
+174: Play, music! And you, brides and bridegrooms all,
+175: With measure heap'd in joy, to the measures fall.
+176: JAQUES: Sir, by your patience. If I heard you rightly,
+177: The duke hath put on a religious life
+178: And thrown into neglect the pompous court?
+179: JAQUES DE BOYS: He hath.
+180: JAQUES: To him will I : out of these convertites
+181: There is much matter to be heard and learn'd.
+182: You to your former honour I bequeath;
+183: Your patience and your virtue well deserves it:
+184: You to a love that your true faith doth merit:
+185: You to your land and love and great allies:
+186: You to a long and well-deserved bed:
+187: And you to wrangling; for thy loving voyage
+188: Is but for two months victuall'd. So, to your pleasures:
+189: I am for other than for dancing measures.
+190: DUKE SENIOR: Stay, Jaques, stay.
+191: JAQUES: To see no pastime I what you would have
+192: I'll stay to know at your abandon'd cave.
+193: DUKE SENIOR: Proceed, proceed: we will begin these rites,
+194: As we do trust they'll end, in true delights.
+195: EPILOGUE
